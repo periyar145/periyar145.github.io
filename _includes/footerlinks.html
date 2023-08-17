@@ -1,0 +1,10 @@
+    |&nbsp;
+    <ul style="display: inline;">
+        {% for item in site.menu %}
+          {% if item.title and item.url %}
+            <li style="display: inline;">
+              <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>&nbsp;|
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
