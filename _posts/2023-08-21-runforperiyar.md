@@ -6,9 +6,9 @@ subtitle: 'Showcase your acting talent'
 description: >-
   Let your creative juices flow from your pen to paper. Periyar 145 celebratory event encourages you to bring out the writer in you. It’s your chance to affect others thru your words...
 image: >-
-    https://res.cloudinary.com/periyar142/image/upload/v1630450300/EssayWriting_upbjln.jpg
+    https://res.cloudinary.com/periyar142/image/upload/v1692373424/RunforPeriyar_dsxylf.jpg
 optimized_image: >-
-  https://res.cloudinary.com/periyar142/image/upload/c_scale,w_380/v1630450300/EssayWriting_upbjln.jpg
+  https://res.cloudinary.com/periyar142/image/upload/c_scale,w_380/v1692373424/RunforPeriyar_dsxylf.jpg
 category: Run For Periyar
 tags:
   - Run For Periyar
