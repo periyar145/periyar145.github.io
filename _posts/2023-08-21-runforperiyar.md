@@ -17,7 +17,34 @@ author: Periyar-International
 paginate: true
 ---
 
-Let your creative juices flow from your pen to paper. Periyar 145 celebratory event encourages you to bring out the writer in you. It’s your chance to affect others thru your words – create an impact coz. written words are stronger and possess great emphasis compared to spoken words… coz writing gives more subtle yet solid messages. Your theme-based writing on topics presented on Periyar & social justice (the societal challenges and injustices we still see today around us), equality and humanism would help foster not only an awareness but potentially make a difference esp. among your peers and the general population.  
+Run for Periyar
+
+🎉 Celebrate Periyar's 145th Year with the Virtual Marathon: 
+
+Run for Periyar. 🏃‍♀️🏃‍♂️
+
+Run Anywhere! 🏃‍♀️🏃‍♂️
+
+📅 Date: Sep 1st to Sep 17th
+⏰ Time: Complete the run at your convenience. 
+📍 Location: Anywhere you choose!
+
+Join us in commemorating the 145th birth anniversary of Thanthai Periyar by participating in our special virtual marathon. Here's how you can be a part of this meaningful event:
+
+1. Select a date and time that works for you.
+2. Use your preferred fitness app to track and record your run.
+3. Take a screenshot of your completed run.
+4. Email the screenshot to [Host's Email] along with your full name and chosen category (e.g., 5K, 10K, Half Marathon) 
+5. You are welcome to send your photograph to showcase your participation and support, and have it featured on the Periyar International website!
+
+🏅 Every participant will receive an exclusive digital finisher's certificate!
+
+Let's pay tribute to Periyar's legacy by running anywhere and everywhere. Be a part of this virtual marathon and show your commitment to fitness and social progress.
+
+For more information, reach out to us at [Contact Email/Phone].
+Stay connected with us on [Social Media Links] for updates and inspiration!
+
+#Run4Periyar145🏁🌟  
 
 
 > Your essay will be published in Periyar Pinju magazine in Tamilnadu, India with a wider reach of thousands of readers. 
