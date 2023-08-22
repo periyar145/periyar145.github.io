@@ -9,9 +9,9 @@ image: >-
     https://res.cloudinary.com/periyar142/image/upload/v1630450300/EssayWriting_upbjln.jpg
 optimized_image: >-
   https://res.cloudinary.com/periyar142/image/upload/c_scale,w_380/v1630450300/EssayWriting_upbjln.jpg
-category: Essay Writing
+category: Run For Periyar
 tags:
-  - essay writing
+  - Run For Periyar
   - events
 author: Periyar-International
 paginate: true
