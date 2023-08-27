@@ -37,12 +37,12 @@ layout: main
                 <h1 class="title">{{ featured.title }}</h1>
                 <p class="description">{{ featured.subtitle }}</p>
                 <div class="buttons">                   
-                    <a href="{{ featured.url | prepend: site.baseurl }}?region=north_america" role="button" class="button">
+                    <a href="{{ featured.url | prepend: site.baseurl }}" role="button" class="button">
                         <svg><use xlink:href="#icon-location"></use></svg>
                         <span>Participants from North America</span>
                     </a>
                     
-                    <a href="{{ featured.url | prepend: site.baseurl }}?region=tamil_nadu" role="button" class="button">
+                    <a href="{{ site.baseurl }}/{{ site.categories_folder | default: 'category' }}/tamil" role="button" class="button">
                         <svg><use xlink:href="#icon-language-tamil"></use></svg>
                         <span>Participants from Tamil Nadu</span>
                     </a>
