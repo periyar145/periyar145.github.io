@@ -1,0 +1,29 @@
+# Jekyll build files
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
+
+# Jekyll cache and logs
+.jekyll-cache/
+.jekyll-metadata
+.jekyll-*
+.jekyll-*
+
+# macOS folder attributes
+.DS_Store
+
+# Windows Thumbs.db files
+Thumbs.db
+
+# User-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Build artifacts
+node_modules/
+bower_components/
+.bundle/
