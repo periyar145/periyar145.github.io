@@ -4,12 +4,46 @@
     <body class="main-page has-push-menu">
         {% include svg-icons.html %}
         {% include header.html %}
+
+        <main class="home {% if site.show_hero and paginator == nil or paginator.page == 1 %}no-padding{% endif %}" role="main">
+            {% if site.show_hero and paginator == nil or paginator.page == 1 %}
+                <!-- Hero -->
+                {% for post in site.posts %}
+                    {% if post.tags contains "feature" and post.category == "tamil" %}
+                        {% assign featured = post %}
+                        {% break %}
+                    {% endif %}
+                {% endfor %}
+                <section class="hero" style="background-image: url({{ featured.image }})">
+                    <div class="pixels"></div>
+                    <div class="gradient"></div>
+                    <div class="content">
+                        <time datetime="{{ featured.date | date_to_xmlschema }}" class="date">
+                            {% if site.date_format == nil %}
+                                {{ featured.date | date: "%m.%d.%Y" }}
+                            {% else %}
+                                {{ featured.date | date: site.date_format }}
+                            {% endif %}
+                        </time>
+                        <h1 class="title">{{ featured.title }}</h1>
+                        <p class="description">{{ featured.subtitle }}</p>
+                        <div class="buttons">
+                            <a href="{{ featured.url | prepend: site.baseurl }}" role="button" class="button">
+                                <svg><use xlink:href="#icon-read"></use></svg>
+                                <span>{{ site.translations.button.read_now | default: "Read Now" }}</span>
+                            </a>
+                        </div>
+                    </div>
+                </section>
+            {% endif %}
+
         <section class="content">
             <main class="home" id="post" role="main">
-                <h1 class="title-category">/{{page.title}}</h1>
+                <!--<h1 class="title-category">/{{page.title}}</h1> -->
                 <div id="grid" class="row flex-grid">
                     {% assign posts = site.posts | where_exp:"post","post.is_generated != true" %}
                     {% for post in posts %}
+                        {% unless post.tags contains "feature" %}
                         {% if post.category == page.slug %}
                             <article class="box-item">
                                 <div class="box-body">
@@ -59,6 +93,7 @@
                                 </div>
                             </article>
                         {% endif %}
+                        {% endunless %}
                     {% endfor %}
                 </div>
             </main>

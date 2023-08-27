@@ -1,15 +1,15 @@
 ---
 date: 2023-08-21T00:00:00.000Z
 layout: post
-title: Periyar 145 - Birthday Celebrations
-subtitle: 'Let us celebrate together - Online event organized by Periyar International USA.'
+title: பெரியார்-145 பிறந்தநாள் விழா கொண்டாட்டம்
+subtitle: 'இணைந்து கொண்டாடுவோம் - பெரியார் பன்னாட்டு அமைப்பு, அமெரிக்கா  ஏற்பாடு செய்த ஆன்லைன் நிகழ்வு.'
 description: >-
-  Periyar International invites everyone to join virtually to celebrate Periyar's 143rd birthday.
+  பெரியாரின் 145வது பிறந்தநாளைக் கொண்டாடுவதற்கு அனைவரும் கலந்துகொள்ளுமாறு பெரியார் பன்னாட்டு அமைப்பு அழைக்கிறது.
 image: >-
   https://res.cloudinary.com/periyar142/image/upload/v1599445469/Ayya_p4dnwg.png
 optimized_image: >-
   https://res.cloudinary.com/periyar142/image/upload/c_scale,w_380/v1599445469/Ayya_p4dnwg.png 
-category: 'Invitation'
+category: tamil
 tags:
   - welcome
   - invitation

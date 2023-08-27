@@ -17,7 +17,12 @@ layout: main
 <main class="home {% if site.show_hero and paginator == nil or paginator.page == 1 %}no-padding{% endif %}" role="main">
     {% if site.show_hero and paginator == nil or paginator.page == 1 %}
         <!-- Hero -->
-        {% assign featured = posts.first %}
+        {% for post in posts %}
+            {% if post.tags contains "feature" %}
+                {% assign featured = post %}
+                {% break %}
+            {% endif %}
+        {% endfor %}
         <section class="hero" style="background-image: url({{ featured.image }})">
             <div class="pixels"></div>
             <div class="gradient"></div>
@@ -31,18 +36,25 @@ layout: main
                 </time>
                 <h1 class="title">{{ featured.title }}</h1>
                 <p class="description">{{ featured.subtitle }}</p>
-                <div class="buttons">
-                    <a href="{{ featured.url | prepend: site.baseurl }}" role="button" class="button">
-                        <svg><use xlink:href="#icon-read"></use></svg>
-                        <span>{{ site.translations.button.read_now | default: "Read Now" }}</span>
+                <div class="buttons">                   
+                    <a href="{{ featured.url | prepend: site.baseurl }}?region=north_america" role="button" class="button">
+                        <svg><use xlink:href="#icon-location"></use></svg>
+                        <span>Participants from North America</span>
+                    </a>
+                    
+                    <a href="{{ featured.url | prepend: site.baseurl }}?region=tamil_nadu" role="button" class="button">
+                        <svg><use xlink:href="#icon-language-tamil"></use></svg>
+                        <span>Participants from Tamil Nadu</span>
                     </a>
                 </div>
+                
             </div>
         </section>
     {% endif %}
     <!-- Posts -->
     <section id="grid" class="row flex-grid">
         {% for post in posts offset: offset %}
+            {% unless post.tags contains "feature" %}
             <article class="box-item">
                 <span class="category">
                     <a href="{{ site.baseurl }}/{{ site.categories_folder | default: 'category' }}/{{ post.category }}">
@@ -93,6 +105,7 @@ layout: main
                     </div>
                 </div>
             </article>
+            {% endunless %}
         {% endfor %}
     </section>
     <!-- Pagination -->
