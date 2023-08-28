@@ -11,6 +11,14 @@
     } ,
   
     {
+      "title"    : "பெரியார்-145 பிறந்தநாள் விழா கொண்டாட்டம்",
+      "tags"     : "welcome, invitation, and feature",
+      "categories" : "tamil",
+      "url"      : "/tamil-welcome/",
+      "date"     : "08/20/2023"
+    } ,
+  
+    {
       "title"    : "Periyar 145 - Birthday Celebrations",
       "tags"     : "welcome, invitation, and feature",
       "categories" : "Invitation",
@@ -19,11 +27,11 @@
     } ,
   
     {
-      "title"    : "பெரியார்-145 பிறந்தநாள் விழா கொண்டாட்டம்",
-      "tags"     : "welcome, invitation, and feature",
+      "title"    : "பெரியாருக்கான ஓட்டம்/நடை",
+      "tags"     : "Run For Periyar and events",
       "categories" : "tamil",
-      "url"      : "/welcome-tamil/",
-      "date"     : "08/20/2023"
+      "url"      : "/tamil-runforperiyar/",
+      "date"     : "08/19/2023"
     } ,
   
     {
@@ -35,11 +43,11 @@
     } ,
   
     {
-      "title"    : "பெரியாருக்கான ஓட்டம்/நடை",
-      "tags"     : "Run For Periyar and events",
+      "title"    : "கஹூட்",
+      "tags"     : "Kahoot and events",
       "categories" : "tamil",
-      "url"      : "/runforperiyar-tamil/",
-      "date"     : "08/19/2023"
+      "url"      : "/tamil-Kahoot/",
+      "date"     : "08/09/2023"
     } ,
   
     {
@@ -51,11 +59,67 @@
     } ,
   
     {
+      "title"    : "நிகழ்வுகள்",
+      "tags"     : "youthprogram",
+      "categories" : "tamil",
+      "url"      : "/tamil-events/",
+      "date"     : "09/30/2022"
+    } ,
+  
+    {
       "title"    : "Events",
       "tags"     : "youthprogram",
       "categories" : "events",
       "url"      : "/events/",
       "date"     : "09/30/2022"
+    } ,
+  
+    {
+      "title"    : "பாடல்",
+      "tags"     : "padal and events",
+      "categories" : "tamil",
+      "url"      : "/tamil-padal/",
+      "date"     : "08/28/2021"
+    } ,
+  
+    {
+      "title"    : "மாறுவேடம்",
+      "tags"     : "monoacting and events",
+      "categories" : "tamil",
+      "url"      : "/tamil-maruvedam/",
+      "date"     : "08/28/2021"
+    } ,
+  
+    {
+      "title"    : "கவிதை",
+      "tags"     : "kavithai and events",
+      "categories" : "tamil",
+      "url"      : "/tamil-kavithai/",
+      "date"     : "08/28/2021"
+    } ,
+  
+    {
+      "title"    : "கட்டுரை",
+      "tags"     : "essay writing and events",
+      "categories" : "tamil",
+      "url"      : "/tamil-katturai/",
+      "date"     : "08/28/2021"
+    } ,
+  
+    {
+      "title"    : "பேச்சு போட்டி",
+      "tags"     : "Speech and events",
+      "categories" : "tamil",
+      "url"      : "/tamil-Quote/",
+      "date"     : "08/28/2021"
+    } ,
+  
+    {
+      "title"    : "ஓவியம்",
+      "tags"     : "drawing and events",
+      "categories" : "tamil",
+      "url"      : "/tamil-Oviyam/",
+      "date"     : "08/28/2021"
     } ,
   
     {
@@ -104,6 +168,14 @@
       "categories" : "Drawing",
       "url"      : "/Oviyam/",
       "date"     : "08/28/2021"
+    } ,
+  
+    {
+      "title"    : "பதிவு",
+      "tags"     : "registration",
+      "categories" : "tamil",
+      "url"      : "/tamil-register/",
+      "date"     : "08/27/2021"
     } ,
   
     {

@@ -1,0 +1,38 @@
+---
+date: 2021-08-29T00:00:00.000Z
+layout: post
+title: ஓவியம்
+subtitle: 'Showcase your acting talent'
+description: >-
+   Periyar 145 celebratory event encourages you to showcase your artistic talent to draw/paint a picture relating to Social Justice, Equality & Humanism. 
+image: >-
+    https://res.cloudinary.com/periyar142/image/upload/v1630450300/Drawing_mudrde.jpg
+optimized_image: >-
+  https://res.cloudinary.com/periyar142/image/upload/c_scale,w_380/v1630450300/Drawing_mudrde.jpg
+category: tamil
+tags:
+  - drawing
+  - events
+author: Periyar-International
+paginate: false
+---
+
+A picture is worth a thousand words. Periyar 145 celebratory event encourages you to showcase your artistic talent to draw/paint a picture relating to Social Justice, Equality & Humanism. We can’t wait to see the works of our little Picassos.
+
+> Your essay & drawing will be published in Periyar Pinju magazine in Tamilnadu, India with a wider reach of thousands of readers. 
+
+**Why wait? Just do it…. Sign up NOW!!!**<a  href="https://www.periyar145.info/register/">`Click here to register!`</a>
+
+## Rules / Guidelines
+
+* Participant must reside in North America (USA,Canada, and Mexico) 
+* Participant must be 18 years or under
+* Participant must register to participate in any competition
+* Registration is FREE
+* Registration due by <strong>Saturday, 11.Sep.2021 11:59 PM (EST)</strong>
+* <ins>Cartoon depicting Dravidian ideology</ins>
+* <ins>Make your drawing send a message loud & clear - supporting Science, Rationalism & Humanism</ins>
+* The last date for submission is  **Wednesday,15.Sep.2021**
+* All participants MUST say a Periyar quote ( list of reference quotes will be emailed to you separately) at the start of their live event after introducing themselves
+
+**Why wait? Just do it…. Sign up NOW!!!**<a  href="https://www.periyar143.info/register/">`Click here to register!`</a>

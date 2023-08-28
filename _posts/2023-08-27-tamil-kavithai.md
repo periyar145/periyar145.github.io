@@ -1,0 +1,39 @@
+---
+date: 2021-08-29T00:00:00.000Z
+layout: post
+title: கவிதை
+subtitle: 'Showcase your acting talent'
+description: >-
+  Poetry is a creative expression which helps us  relate/understand and appreciate people and things around us. Unleash the poet/artist in you...
+image: >-
+   https://res.cloudinary.com/periyar142/image/upload/v1630450513/Kavithai_ncj0ts.jpg
+optimized_image: >-
+  https://res.cloudinary.com/periyar142/image/upload/c_scale,w_380/v1630450513/Kavithai_ncj0ts.jpg
+category: tamil
+tags:
+  - kavithai
+  - events
+author: Periyar-International
+paginate: false
+---
+
+**Poetry** is a creative expression which helps us  relate/understand and appreciate people and things around us. Unleash the poet/artist in you – be it a poem or drawing – be a avant-garde composer (age appropriate)  as you explore the themes of social justice, gender equality, humanism, rationalism and human rights.
+
+**Why wait? Just do it…. Sign up NOW!!!**<a  href="https://www.periyar143.info/register/">`Click here to register!`</a>
+
+## Rules / Guidelines
+
+* Participant must reside in North America (USA,Canada, and Mexico) 
+* Participant must 18 years or under
+* Participant must register to participate in any competition
+* Registration is FREE
+* Registration due by <strong>Saturday, 11.Sep.2021 11:59 PM (EST)</strong>
+* <ins>Kavithai can be your own (we strongly encourage it) – even a few lines based on Dravidian ideology or about the founding fathers of Dravidam</ins>
+* <ins>You may write in Tamil or English</ins>
+* <ins>Pick an established Kavithai (Poets list is given below) relating to the theme only  and recite  
+</ins> 
+* The time must not exceed two (2) minutes
+* **Poets:** Bharathidasan, Kalaignar Karunandihi, Pattukottai Kalyanasundaranar
+* All participants MUST say a Periyar quote ( list of reference quotes will be emailed to you separately) at the start of their live event after introducing themselves
+
+**Why wait? Just do it…. Sign up NOW!!!**<a  href="https://www.periyar143.info/register/">`Click here to register!`</a>
