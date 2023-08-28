@@ -4,7 +4,7 @@ layout: post
 title: கட்டுரை
 subtitle: 'பெரியார் 145 ஆம் ஆண்டு கொண்டாட்ட நிகழ்வு உங்களில் உள்ள எழுத்தாளரை வெளிக்கொணர உங்களை ஊக்குவிக்கிறது'
 description: >-
-  Let your creative juices flow from your pen to paper. Periyar 145 celebratory event encourages you to bring out the writer in you. It’s your chance to affect others thru your words...
+   நிலத்தின் வழியாக ஒரு நதி தனது வழித் தடத்தை உருவாக்குவது போல, உங்கள் பேனா சமத்துவ எண்ணங்களை காகிதத்தில் வடிகட்டும்.
 image: >-
     https://res.cloudinary.com/periyar142/image/upload/v1630450300/EssayWriting_upbjln.jpg
 optimized_image: >-
@@ -17,26 +17,24 @@ author: Periyar-International
 paginate: true
 ---
 
-Let your creative juices flow from your pen to paper. Periyar 145 celebratory event encourages you to bring out the writer in you. It’s your chance to affect others thru your words – create an impact coz. written words are stronger and possess great emphasis compared to spoken words… coz writing gives more subtle yet solid messages. Your theme-based writing on topics presented on Periyar & social justice (the societal challenges and injustices we still see today around us), equality and humanism would help foster not only an awareness but potentially make a difference esp. among your peers and the general population.  
+உங்கள் எழுத்து திறனை எண்ணங்களை பேனாவிலிருந்து காகிதத்திற்கு மாற்றுங்கள். உங்கள் பேனா வழிகாட்டும் ஒளியாகச் செயல்படட்டும். பெரியார் 145 நிகழ்வு உங்களில் இருக்கும் எழுத்தாளரை வெளிக்கொணரும் வாய்ப்பை வழங்குகிறது. உங்கள் சொற்கள் மற்றவர்கள் மீது தாக்கம் ஏற்படுத்த கிடைத்த வாய்ப்பு இது. பேசும் வார்த்தைகளுடன் ஒப்பிடும்போது எழுதப்பட்ட வார்த்தைகளுக்கான ஆற்றலும் விளைவும் அதிகம். பெரியாரின் சித்தாந்தம், சமூக நீதி, சமத்துவம் மற்றும் மனிதநேயம் போன்ற கருப்பொருளை மையமாகக் கொண்ட உங்கள் எழுத்து, விழிப்புணர்வையம் மாற்றத்தையம் ஏற்படுத்தும் திறன் கொண்டது.
 
+> உங்கள் கட்டுரை தமிழ்நாட்டில் உள்ள பெரியார் பிஞ்சு இதழில் ஆயிரக்கணக்கான வாசகர்களை அணுகும் வகையில் வெளியிடப்படும்.
 
-> Your essay will be published in Periyar Pinju magazine in Tamilnadu, India with a wider reach of thousands of readers. 
+## விதிகள் / வழிகாட்டுதல்கள்
 
-**Why wait? Just do it…. Sign up NOW!!!**<a  href="https://www.periyar143.info/register/">`Click here to register!`</a>
+ - கட்டுரை தமிழ் அல்லது ஆங்கிலத்தில் இருக்கலாம். 
+ - கட்டுரை ஐநூறு (500) வார்த்தைகள் அல்லது இரண்டு (2) பக்கங்களுக்கு மிகாமல் இருக்க வேண்டும். 
+ - தமிழில் தலைப்புகள்:
+	 - பெரியாரும் பெண்ணுரிமையும், 
+	 - பெரியாரும் சமூக நீதியும், 
+	 - பெரியாரும் சுயமரியாதையும்.
 
-## Rules / Guidelines
-
-* Participant must reside in North America (USA,Canada, and Mexico) 
-* Participant must be <ins>10 years or above</ins>
-* Participant must register to participate in any competition
-* Registration is FREE
-* Registration due by <strong>Saturday, 9.Sep.2023 11:59 PM (EST)</strong>
-* The essay can be in **Tamil** or **English**
-* The essay must not exceed five hundred (500) words or two (2) pages
-* <ins>Topics in Tamil: பெரியாரும் பெண்ணுரிமையும், பெரியாரும் சமூக நீதியும், பெரியாரும் சுயமரியாதையும்</ins>
-* <ins>Topics in English: Periyar on Women's Rights /Periyar on Social Justice/Periyar on Self Respect</ins>
-* The last date for submission is  **Wednesday,15.Sep.2021**
-* All participants MUST say a Periyar quote ( list of reference quotes will be emailed to you separately) at the start of their live event after introducing themselves
-
-**Why wait? Just do it…. Sign up NOW!!!**<a  href="https://www.periyar143.info/register/">`Click here to register!`</a>
+ - ஆங்கிலத்தில் தலைப்புகள்: 
+	 - Periyar on Women’s Rights, 
+    - Periyar on Social Justice
+    - Periyar on Self Respect
+ -   கட்டுரை சமர்ப்பிக்க வேண்டிய கடைசி தேதி வெள்ளிக்கிழமை, 15. செப்.2023.
+   
+ 
 

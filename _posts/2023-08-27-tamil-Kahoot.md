@@ -4,7 +4,7 @@ layout: post
 title: கஹூட்
 subtitle: 'கஹூட்! (Kahoot!) பெரியார் ஆயிரம் வினாடி வினா'
 description: >-
-  Let your creative juices flow from your pen to paper. Periyar 145 celebratory event encourages you to bring out the writer in you. It’s your chance to affect others thru your words...
+  பெரியாரை நன்கு கற்க - பெரியார் ஆயிரம் (வினா-விடை).
 image: >-
     https://res.cloudinary.com/periyar142/image/upload/v1692373424/Kahoot_xw1old.jpg
 optimized_image: >-

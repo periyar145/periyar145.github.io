@@ -4,7 +4,7 @@ layout: post
 title:  பேச்சு போட்டி
 subtitle: சமூக நீதி, பெண்கள் உரிமை, பகுத்தறிவு என எதுவாக இருந்தாலும் உங்கள் குரல் முக்கியமானது.
 description: >-
-  Speech on Periyar, Self-Respect, Women's Right, Rationalism, Eradicaton of caste.
+  பெரியார், சுயமரியாதை, பெண் உரிமை, பகுத்தறிவு, சாதி ஒழிப்பு பற்றிய உரை.
 image: >-
     https://res.cloudinary.com/periyar142/image/upload/v1630772199/Speech_ws6dyv.jpg
 optimized_image: >-
