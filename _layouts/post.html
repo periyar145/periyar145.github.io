@@ -36,10 +36,22 @@
 
             {% if site.two_columns_layout %}
                 <aside class="see-also">
-                    <h2>{{ site.translations.text.see_also | default: "See also" }}</h2>
+                    {% if page.category == "tamil" %}
+                        <h2>{{ site.translations.text.see_also | default: "தொடர்புடைய பதிவுகள்" }}</h2>
+                    {% else %}
+                        <h2>{{ site.translations.text.see_also | default: "See also" }}</h2>
+                    {% endif %}
                     <ul>
                         {% assign next_posts = site.posts | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" %}
+                        {% if page.category == "tamil" %}
+                            {% assign next_posts = next_posts | where_exp:"post","post.category == 'tamil'" %}
+                        {% else %}
+                            {% assign next_posts = next_posts | where_exp:"post","post.category != 'tamil'" %}
+                        {% endif %}
                         {% assign shuffled_array = next_posts | shuffle %}
+                        
+                        
+                        
                         {% for post in shuffled_array limit:3 %}
                             <li>
                                 <a href="{{ post.url | prepend: site.baseurl }}">

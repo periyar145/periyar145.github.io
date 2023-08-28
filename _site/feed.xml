@@ -5,8 +5,8 @@
     <description>Periyar 145 - Birthday Celebrations</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 27 Aug 2023 13:30:52 -0500</pubDate>
-    <lastBuildDate>Sun, 27 Aug 2023 13:30:52 -0500</lastBuildDate>
+    <pubDate>Sun, 27 Aug 2023 20:25:46 -0500</pubDate>
+    <lastBuildDate>Sun, 27 Aug 2023 20:25:46 -0500</lastBuildDate>
     <generator>Jekyll v3.9.1</generator>
     
       <item>
@@ -81,6 +81,20 @@ Gurnee, Illinois -60031
         <category>events</category>
         
         <category>Run For Periyar</category>
+      </item>
+    
+      <item>
+        <title>பெரியாருக்கான ஓட்டம்/நடை</title>
+        <description>&lt;h1&gt;&lt;strong&gt;பெரியாருக்கான ஓட்டம்/நடை&lt;/strong&gt;&lt;/h1&gt; &lt;p&gt;&lt;em&gt;பெரியாரின் 145வது ஆண்டு விழாவை மாரத்தான் அல்லது பெருநடை மூலம் கொண்டாடுங்கள்.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;தேதி:&lt;/strong&gt; செப்டம்பர் 1 முதல் செப்டம்பர் 17 வரை&lt;br /&gt; &lt;strong&gt;நேரம்:&lt;/strong&gt; உங்கள் வசதிக்கேற்ப எந்த நேரத்திலும் ஓட்டத்தை தொடங்கி முடிக்கலாம்.&lt;br /&gt; &lt;strong&gt;எங்கு:&lt;/strong&gt; அருகே உள்ள ஓட்டம் அல்லது நடைக்கு ஏற்ற இடத்தை நீங்களே தேர்வு செய்து கொள்ளலாம்.&lt;/p&gt; &lt;p&gt;தந்தை பெரியாரின் 145வது பிறந்தநாளை எங்களுடன் இணைந்து கொண்டாட இந்த சிறப்பு மாரத்தானில் கலந்து கொள்ள அழைக்கிறோம். உங்கள் பங்களிப்பு இந்த அர்த்தமுள்ள நிகழ்வை மேலும் சிறப்பாக்கும்.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;உங்களுக்கு ஏற்ற தேதி மற்றும் நேரத்தைத் தேர்ந்தெடுக்கவும்.&lt;br /&gt; உங்கள் ஓட்டத்தைக் கண்காணிக்கவும் பதிவு செய்யவும்.&lt;/li&gt; &lt;li&gt;உங்களுக்கு விருப்பமான ஏதாவது ஃபிட்னஸ் செயலியை பயன்படுத்தவும்.&lt;br /&gt; ஃபிட்னஸ் செயலியின் திரை சொட்டை (ஸ்கிரீன்ஷாட்) உங்கள் முழுப்பெயர் மற்றும் ஓட்ட வகையுடன் (எ.கா., 5K, 10K, Half Marathon, Walkathon) &lt;a href=&quot;mailto:events@periyarinternational.org&quot;&gt;events@periyarinternational.org&lt;/a&gt; க்கு மின்னஞ்சல்...</description>
+        <pubDate>Sat, 19 Aug 2023 19:00:00 -0500</pubDate>
+        <link>http://localhost:4000/runforperiyar-tamil/</link>
+        <guid isPermaLink="true">http://localhost:4000/runforperiyar-tamil/</guid>
+        
+        <category>Run For Periyar</category>
+        
+        <category>events</category>
+        
+        <category>tamil</category>
       </item>
     
       <item>
