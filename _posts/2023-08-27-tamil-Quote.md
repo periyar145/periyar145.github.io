@@ -2,7 +2,7 @@
 date: 2021-08-29T00:00:00.000Z
 layout: post
 title:  பேச்சு போட்டி
-subtitle: 'Showcase your acting talent'
+subtitle: சமூக நீதி, பெண்கள் உரிமை, பகுத்தறிவு என எதுவாக இருந்தாலும் உங்கள் குரல் முக்கியமானது.
 description: >-
   Speech on Periyar, Self-Respect, Women's Right, Rationalism, Eradicaton of caste.
 image: >-
@@ -17,28 +17,15 @@ author: Periyar-International
 paginate: false
 ---
 
-“Speech is power: speech is to persuade, to convert, to compel.”
-— Ralph Waldo Emerson, an American essayist and lecturer
-As we are getting ready to celebrate the life and legacy of Periyar Ayya, on his 143rd birthday, we think it would be very fitting for our youth to engage in a heartfelt rhetorical session learning about what turned a common man EVR into “Periyar” indeed. Our intent is to encourage inquisitive young minds to reason, rationalize and fearlessly ask questions especially when something does not connect with the intellect… just the way Periyar did.   In an effort to follow in his footsteps and pave the way for more “Periyars” in-the-making, let’s get the word out about few Youth events to reel in more participants!
+> “பேச்சு என்பது வலிமை: பேச்சு ஒருவரை மாற்றியமைக்கும், உந்துதல் தரும், வெல்லும்.” — ரால்ப் வால்டோ எமர்சன் அமெரிக்காவைச் சேர்ந்த கட்டுரையாளர், கவிஞர், சொற்பொழிவாளர் மற்றும் எழுத்தாளர்.
 
+தந்தை பெரியார்-145 நிகழ்வில் அவரது வாழ்க்கையையும் தாக்கத்தையும் கொண்டாடத் தயாராகும் இந்த நேரத்தில், இளைய தலைமுறையினர் தந்தை பெரியாரை பற்றிய உற்சாகமான சொற்பொழிவில் பங்கேற்பது மிகவும் பொருத்தமாக இருக்கும் என்று நாங்கள் நம்புகிறோம். சாதாரண மனிதராக இருந்த ஈ.வெ.ரா "பெரியார்" என்ற அடையாளமாக மாறியது பற்றி ஆராய்வதே இந்த அமர்வின் நோக்கமாகும். ஆர்வமுள்ள இளம் மனங்களை விமர்சன சிந்தனை, பகுத்தறிவு பகுப்பாய்வு மற்றும் அச்சமின்றி கேள்வி கேட்பதில் ஈடுபட ஊக்குவிப்பதே எங்கள் குறிக்கோள். பெரியாரின் வழியைப் பின்பற்றி, எதிர்காலப் "பெரியார்"களை உருவாக்குவதற்கான எங்கள் முயற்சியில் அதிக எண்ணிக்கையிலான பங்கேற்பாளர்களை வரவேற்கிறோம். இளைஞர்களை மையமாகக் கொண்ட தொடர் நிகழ்வுகளைப் பரப்புவதற்கு இது உந்துதலாக இருக்கும் என நம்புகிறோம்.
+ 
+**தலைப்புகள்**
 
-> Individual registered participant will receive the quotes in an e-mail
+ - பெரியார், சுயமரியாதை, பெண் உரிமை, பகுத்தறிவு, சாதி ஒழிப்பு பற்றிய உரை.
+ - நீங்கள் தேர்ந்தெடுத்த தலைப்பை ஒரு கதை அல்லது தனிப்பட்ட அனுபவத்தின்   மூலம் பேசலாம்.
 
-**Why wait? Just do it…. Sign up NOW!!!**<a  href="https://www.periyar143.info/register/">`Click here to register!`</a>
+*சமூக நீதி, சமத்துவம் மற்றும் பகுத்தறிவு சிந்தனை பற்றிய நமது புரிதலை ஊக்குவிக்கும் வகையில் தந்தை பெரியாரின் மேற்கோள்களைப் பகிர்ந்துகொள்ளுங்கள்.*
 
-
-## Rules / Guidelines
-
-* Participant must reside in North America (USA,Canada, and Mexico) 
-* Participant must be 18 years or under
-* Participant must register to participate in any competition
-* Registration is FREE
-* Registration due by <strong>Saturday, 11.Sep.2021 11:59 PM (EST)</strong>
-* All Participant introduce 
-* The time must not two(2) exceeds
-* Topics: Speech on Periyar, Self-Respect, Women's Right, Rationalism, Eradicaton of caste.
-* You may choose to speak on your selected topic thru a story or experience
-* All participants MUST say a Periyar quote ( list of reference quotes will be emailed to you separately) at the start of their live event after introducing themselves
-
-
-**Why wait? Just do it…. Sign up NOW!!!**<a  href="https://www.periyar143.info/register/">`Click here to register!`</a>
+*இந்த நிகழ்வின் போது ஒவ்வொரு பங்கேற்பாளருக்கும் பெரியாரின் பொன்மொழிகளில் ஒன்றைச் சொல்ல வாய்ப்பு உண்டு. உங்களுக்குப் பிடித்த தந்தை பெரியாரின் மேற்கோள் அல்லது பொன்மொழியைப் பகிர இது ஒரு அருமையான வாய்ப்பு. சமூக நீதி, பெண்கள் உரிமை, பகுத்தறிவு என எதுவாக இருந்தாலும் உங்கள் குரல் முக்கியமானது!*
