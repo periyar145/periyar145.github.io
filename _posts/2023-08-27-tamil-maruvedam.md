@@ -2,9 +2,9 @@
 date: 2021-08-29T00:00:00.000Z
 layout: post
 title: மாறுவேடம்
-subtitle: 'Showcase your acting talent'
+subtitle: திராவிட முன்னோடிகளாக அலங்கரிக்கப்பட்ட இளம் மனங்களின் கூட்டம். 
 description: >-
-  Dressing up and acting out stories with power & conviction. Drama is a very compelling way for child actors to walk around ...
+  திராவிடத் தலைவர்களின் ஆளுமையை வெளிப்படுத்தும் குழந்தைகளுக்கான மாறுவேட போட்டி.  
 image: >-
     https://res.cloudinary.com/periyar142/image/upload/v1630450301/Maruvedam_ppgszl.jpg
 optimized_image: >-
@@ -17,21 +17,14 @@ author: Periyar-International
 paginate: false
 ---
 
-Dressing up and acting out stories with power & conviction… Drama is a very compelling way for child actors to walk around in the “world of the leaders  who have made a difference to mankind”… to experience what they experienced; to feel, in a very real way, the emotions that such scenarios raise; and to internalize the activists’ interpretation of these experiences is indeed a moment of joy, realization and experience not just for them but also the witnessing audience members.
 
-**Why wait? Just do it…. Sign up NOW!!!**<a  href="https://www.periyar143.info/register/">`Click here to register!`</a>
+மனிதகுலத்தின் போக்கை வடிவமைத்த தலைவர்களை போன்று குழந்தைகள் வேடமிட்டு ஆர்வத்துடனும் நம்பகத்தன்மையுடனும் செயல்படுத்துவது மிக வசீகரமானது. இந்த செயல்முறை குழந்தைகளுக்கு மட்டுமல்ல, சாட்சியாக இருக்கும் பார்வையாளர்களுக்கும் சிறந்த அனுபவத்தை தருகிறது.
+ 
 
-## Rules / Guidelines
+## விதிகள் / வழிகாட்டுதல்கள்
 
-* Participant must reside in North America (USA,Canada, and Mexico) 
-* Participant must be 18 years or under
-* Participant must register to participate in any competition
-* Registration is FREE
-* Registration due by <strong>Saturday, 11.Sep.2021 11:59 PM (EST)</strong>
-* The time must not exceed two (2) minutes
-* **Leaders:** Periyar E V R, Arignar Anna, Nagammai, Maniammai,Kalaignar Karunanidhi, Pity Thiagarayar, Ayothi Dasar, Ambedkar, A T Panneerselvam, Bharathidasan, Rammamirtham Ammaiyar, Dr T M Nair, W P Soundarapandian
-* Inform us via email(events@periyarinternational.org) your choice of character
-* You may choose to say a quote of that leader or what they did to make a difference
-* All participants MUST say a Periyar quote ( list of reference quotes will be emailed to you separately) at the start of their live event after introducing themselves
-
-**Why wait? Just do it…. Sign up NOW!!!**<a  href="https://www.periyar143.info/register/">`Click here to register!`</a>
+ - நேரம் இரண்டு (2) நிமிடங்களுக்கு மிகாமல் இருக்க வேண்டும். 
+ - தலைவர்கள்: பெரியார் ஈ.வெ.ரா, அறிஞர் அண்ணா, நாகம்மை, மணியம்மை, கலைஞர் கருணாநிதி, பிட்டி தியாகராயர், அயோத்தி தாசர், அம்பேத்கர், ஏ.டி.பன்னீர்செல்வம், பாரதிதாசன், ரம்மாமிர்தம் அம்மையார், டாக்டர் டி.எம்.நாயர், வ.பி.சௌந்தரபாண்டியன்.
+ - தலைவரின் மேற்கோள் அல்லது மாற்றத்தை ஏற்படுத்த அவர்கள் என்ன செய்தார்கள்   என்பதை நீங்கள் சொல்ல வேண்டும்.
+ - நீங்கள் விரும்பும் கதாபாத்திரத்தை மின்னஞ்சல்
+   (events@periyarinternational.org) மூலம் எங்களுக்குத் தெரிவிக்கவும்.

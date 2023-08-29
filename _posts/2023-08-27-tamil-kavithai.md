@@ -2,9 +2,9 @@
 date: 2021-08-29T00:00:00.000Z
 layout: post
 title: கவிதை
-subtitle: 'Showcase your acting talent'
+subtitle: கவிதை, சொற்களால் ஆன சிம்பொனி.
 description: >-
-  Poetry is a creative expression which helps us  relate/understand and appreciate people and things around us. Unleash the poet/artist in you...
+  கவிதை, சொற்களால் ஆன சிம்பொனி. பெரியார் 145 நிகழ்வில் சமூக நீதி, பாலின சமத்துவம், மனிதநேயம், பகுத்தறிவு பற்றிய கவிதைகளை வரவேற்கிறோம்.
 image: >-
    https://res.cloudinary.com/periyar142/image/upload/v1630450513/Kavithai_ncj0ts.jpg
 optimized_image: >-
@@ -17,23 +17,12 @@ author: Periyar-International
 paginate: false
 ---
 
-**Poetry** is a creative expression which helps us  relate/understand and appreciate people and things around us. Unleash the poet/artist in you – be it a poem or drawing – be a avant-garde composer (age appropriate)  as you explore the themes of social justice, gender equality, humanism, rationalism and human rights.
+கவிதை, சொற்களால் ஆன சிம்பொனி, சமூக நீதி, பாலின சமத்துவம், மனிதநேயம், பகுத்தறிவு மற்றும் மனித உரிமைகளின் அடிப்படை விழுமியங்களை தன்னகத்தே கொண்டுள்ளது. நம்மை வழிநடத்தும் திசைகாட்டி போல சமூக சிக்கல்களின் தளம் வழியாக, நீதி மற்றும் சமத்துவ உலகத்திற்கான தேவையின் மீது கவிதை நம் கவனத்தை செலுத்துகிறது. சொற்களை ஆளுவது மூலம் உங்களுக்குள் இருக்கும் கவிஞரையோ கலைஞரையோ எழுப்புங்கள். சமூக நீதி, பாலின சமத்துவம், மனிதநேயம், பகுத்தறிவு மற்றும் மனித உரிமைகள் போன்ற விஷயங்களில் ஆழ்ந்து, ஒரு புதுமையான படைப்பாளியின் பங்கை ஏற்றுக்கொள்ளுங்கள்.
 
-**Why wait? Just do it…. Sign up NOW!!!**<a  href="https://www.periyar143.info/register/">`Click here to register!`</a>
+## விதிகள் / வழிகாட்டுதல்கள்
 
-## Rules / Guidelines
+ - திராவிட சித்தாந்தத்தின் அடிப்படையில் அல்லது அதன் நிறுவனர்களை பற்றிய சொந்த கவிதையை வரவேற்கிறோம்.
+    *(அல்லது)*   
+   திராவிட கவிஞர்களின் கவிதையை ( பாரதிதாசன், கலைஞர் கருணாநிதி,பட்டுக்கோட்டை கல்யாணசுந்தரனார் எழுதிய கவிதைகளை) தேர்ந்தெடுத்து வாசிக்கலாம்.   
+ - நேரம் இரண்டு (2) நிமிடங்களுக்கு மிகாமல் இருக்க வேண்டும்
 
-* Participant must reside in North America (USA,Canada, and Mexico) 
-* Participant must 18 years or under
-* Participant must register to participate in any competition
-* Registration is FREE
-* Registration due by <strong>Saturday, 11.Sep.2021 11:59 PM (EST)</strong>
-* <ins>Kavithai can be your own (we strongly encourage it) – even a few lines based on Dravidian ideology or about the founding fathers of Dravidam</ins>
-* <ins>You may write in Tamil or English</ins>
-* <ins>Pick an established Kavithai (Poets list is given below) relating to the theme only  and recite  
-</ins> 
-* The time must not exceed two (2) minutes
-* **Poets:** Bharathidasan, Kalaignar Karunandihi, Pattukottai Kalyanasundaranar
-* All participants MUST say a Periyar quote ( list of reference quotes will be emailed to you separately) at the start of their live event after introducing themselves
-
-**Why wait? Just do it…. Sign up NOW!!!**<a  href="https://www.periyar143.info/register/">`Click here to register!`</a>

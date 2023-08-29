@@ -2,9 +2,9 @@
 date: 2021-08-29T00:00:00.000Z
 layout: post
 title: பாடல்
-subtitle: 'Showcase your acting talent'
+subtitle: இதயத்தின் மெல்லிசை கொடுத்த குரல். 
 description: >-
-  There’s something magical about music.  Singing a song is powerful as well. Music has the power to connect people, evoke thinking, reflect and emulate. 
+  இசையானது உணர்வுகள் மற்றும் இணைப்புகளின் உலகளாவிய மொழி. பெரியார்-145 நிகழ்வானது உங்கள் குரலை வெளிப்படுத்த அழைக்கிறது
 image: >-
     https://res.cloudinary.com/periyar142/image/upload/v1630450301/Song_ttznts.jpg
 optimized_image: >-
@@ -17,23 +17,13 @@ author: Periyar-International
 paginate: false
 ---
 
-There’s something magical about music.  Singing a song is powerful as well. Music has the power to connect people, evoke thinking, reflect and emulate. When harnessed for a cause, music unites and inspires. 
 
-Are you a natural born singer or someone learning music? Periyar 145 celebratory event encourages you to showcase your musical talent by singing songs relating to the theme of social justice, equality, humanism. Vocalize your empathy, caring and compassion musically. We can’t wait to hear you sing!
+இசையானது மக்களிடையே தொடர்புகளை உருவாக்குவதற்கும், சிந்தனையைத் தூண்டுவதற்கும், உணர்வுகளை பிரதிபலிக்கும் மற்றும் இலட்சியங்களை உள்ளடக்குவதற்கும் அசாதாரண திறனைக் கொண்டுள்ளது.
 
+நீங்கள் உள்ளார்ந்த பாடகரா அல்லது இசைப் பயணத்தில் உள்ளவரா? பெரியார்-145 நிகழ்வானது சமூக நீதி, சமத்துவம் மற்றும் மனிதநேயம் ஆகிய கருப்பொருள்களுடன் இணைந்த பாடல்களுக்கு உங்கள் குரலை வழங்குவதன் மூலம் உங்கள் இசைத் திறனை வெளிப்படுத்த உங்களை அழைக்கிறது. உங்கள் உணர்திறனும், அக்கறையும் இனிமையாக ஒலிக்கட்டும். உங்கள் குரலின் இணக்கத்தை நாங்கள் ஆவலுடன் எதிர்பார்க்கிறோம்!
 
-**Why wait? Just do it…. Sign up NOW!!!**<a  href="https://www.periyar143.info/register/">`Click here to register!`</a>
+## விதிகள் / வழிகாட்டுதல்கள்
 
-## Rules / Guidelines
-
-* Participant must reside in North America (USA,Canada, and Mexico) 
-* Participant must be 18 years or under
-* Participant must register to participate in any competition
-* Registration is FREE
-* Registration due by <strong>Saturday, 11.Sep.2021 11:59 PM (EST)</strong>
-* The time must not exceed three (3) minutes
-* Inform us via email the song of your choice for us to draw up the agenda
-* **Poets:** Bharathidasan, Kalaignar Karunandihi, Pattukottai Kalyanasundaranar
-* All participants MUST say a Periyar quote ( list of reference quotes will be emailed to you separately) at the start of their live event after introducing themselves
-
-**Why wait? Just do it…. Sign up NOW!!!**<a  href="https://www.periyar143.info/register/">`Click here to register!`</a>
+ - நேரம் மூன்று (3) நிமிடங்களுக்கு மிகாமல் இருக்க வேண்டும்.
+ - நிகழ்ச்சி நிரலை வரைவதற்கு உதவியாக நீங்கள் விரும்பும் பாடலை மின்னஞ்சல் மூலம் எங்களுக்குத் தெரிவிக்கவும்.
+ - பாரதிதாசன், கலைஞர் கருணாநிதி, பட்டுக்கோட்டை கல்யாணசுந்தரனார் எழுதிய பாடல்களை பாட வேண்டும்.
