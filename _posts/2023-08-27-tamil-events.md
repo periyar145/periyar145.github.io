@@ -2,42 +2,56 @@
 date: 2022-09-31T00:00:00.000Z
 layout: post
 title: நிகழ்வுகள்
-subtitle: Celebrations on Sunday, 18.Sep.2023, 10 AM CST.
-description: Encourage inquisitive young minds to reason, rationalize and fearlessly ask questions especially when something does not connect with the intellect…
-image:  https://res.cloudinary.com/periyar142/image/upload/v1630450301/Events_v5cbtp.jpg
+subtitle:
+description: பெரியார் பன்னாட்டு அமைப்பு அமெரிக்கா, பெரியார்-145 விழாவுக்கு உங்களை அன்புடன் வரவேற்கிறது.
+image: https://res.cloudinary.com/periyar142/image/upload/v1630450301/Events_v5cbtp.jpg
 optimized_image: https://res.cloudinary.com/periyar142/image/upload/c_scale,w_380/v1630450301/Events_v5cbtp.jpg
 category: tamil
 tags:
-  - youthprogram
+- youthprogram
 author: Periyar-International
 paginate: true
 ---
 
-Periyar, a great social revolutionary born more than a century and a half later than Rousseau, was a dauntless warrior…a free thinker who engaged his sharp intellect, questioned age old senseless beliefs and customs and tried to break free from the shackles of meaningless traditions and expose the master minded manipulation behind those beliefs. 
 
+**பெரியார்-145 நிகழ்வுகள்**
 
+  
 
-## Prizes
+- [பெரியாருக்கான ஓட்டம்/நடை](/tamil-runforperiyar/)
 
-* All the participants will get award of <strong>$25 USD</strong> 
-* Participant will receive a certificate
-* Special talents prizes will be announced at the end of the program. Winner must be present of avail of this grand opportunity!
+- [கஹூட்! (Kahoot!) பெரியார் ஆயிரம் வினாடி வினா](/tamil-Kahoot/)
 
-## Rules
+- [கட்டுரை](/tamil-katturai/)
 
-* Participant must reside in North America (USA,Canada, and Mexico) 
-* Participant must be 18 years or under
-* Participant must register to participate in any competition
-* Registration is FREE
-* Registration due by <strong>Saturday, 11.Sep.2021 11:59 PM (EST)</strong>
-* * All participants MUST say a Periyar quote ( list of reference quotes will be emailed to you separately) at the start of their live event after introducing themselves
+- [பேச்சு போட்டி](/tamil-quote/)
 
-**Why wait? Just do it…. Sign up NOW!!!**
-<a  href="https://www.periyar143.info/register/">`Click here to Register`</a>
+- [கவிதை](/tamil-kavithai/)
 
+- [ஓவியம்](/tamil-oviyam/)
 
+- [மாறுவேடம்](/tamil-maruvedam/)
 
+- [பாடல்](/tamil-padal/)
 
+[நிகழ்வில் பங்கு பெற/பதிவு செய்ய](/tamil-register/)
 
+  
 
-
+> **பொது விதிகள் / வழிகாட்டுதல்கள்**
+> 
+> - பதிவு செய்ய வேண்டிய கடைசி தேதி வெள்ளிக்கிழமை, 15. செப்.2023.
+> 
+> - ஒருவர் நான்கு நேரலை நிகழ்வுகளுக்கு(பேச்சு/பாடல்/மாறுவேடம்/கவிதை) மேல் கலந்து கொள்ள வேண்டாம்.
+> 
+> - ஓவியம் மற்றும் கட்டுரை 15.செப்.2023க்குள் சமர்ப்பிக்க வேண்டுகிறோம்.
+> 
+> - 18 வயதுக்கு கீழ் அனைவரும் கலந்து கொள்ளலாம்.
+> 
+> - வெற்றி பெற்றவர்களின் கட்டுரை, ஓவியம் பெரியார் பிஞ்சு இதழில் வெளியிடப்படும்.
+> 
+> - பங்கேற்பாளர்கள் அனைவரும் தங்களை அறிமுகம் செய்து கொண்ட பிறகு, தங்கள் நேரலை நிகழ்வின் தொடக்கத்தில் பெரியார் மேற்கோளை சொல்ல
+> வேண்டும்.(குறிப்பு: மேற்கோள்களின் பட்டியல் உங்களுக்கு தனித்தனியாக
+> மின்னஞ்சல் செய்யப்படும்)
+> 
+> - பங்கேற்பவர்களுக்கு சிறப்பு பரிசுகள்.
