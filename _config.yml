@@ -46,7 +46,7 @@ google_analytics: "UA-177216268-1"
 language: "en"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
-
+future: true
 
 # Build settings
 markdown: kramdown

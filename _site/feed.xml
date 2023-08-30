@@ -5,14 +5,14 @@
     <description>Periyar 145 - Birthday Celebrations</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 29 Aug 2023 22:14:23 -0500</pubDate>
-    <lastBuildDate>Tue, 29 Aug 2023 22:14:23 -0500</lastBuildDate>
+    <pubDate>Wed, 30 Aug 2023 08:56:09 -0500</pubDate>
+    <lastBuildDate>Wed, 30 Aug 2023 08:56:09 -0500</lastBuildDate>
     <generator>Jekyll v3.9.1</generator>
     
       <item>
         <title>பெரியார்-145 பிறந்தநாள் விழா கொண்டாட்டம்</title>
         <description>&lt;p&gt;&lt;strong&gt;Thanthai Periyar&lt;/strong&gt; – the father of Modern Dravidian movement – a true visionary who propounded rationalism, a fierce leader who defied all odds, a leader without borders and boundaries dedicated his entire life to the fight against inequality and social injustice in striving to establish an egalitarian society. To eradicate Casteism in Indian society following the dictates of the Hindu religion where people are enslaved based on discrimination at birth. Indian Caste system earmarked at birth was dictated and cleverly manipulated by the Hindu religious doctrine which sets a top-down social structure of oppression that differentiates individuals based on birth...</description>
-        <pubDate>Thu, 24 Aug 2023 19:00:00 -0500</pubDate>
+        <pubDate>Sat, 16 Sep 2023 19:00:00 -0500</pubDate>
         <link>http://localhost:4000/tamil-welcome/</link>
         <guid isPermaLink="true">http://localhost:4000/tamil-welcome/</guid>
         
@@ -23,6 +23,22 @@
         <category>feature</category>
         
         <category>tamil</category>
+      </item>
+    
+      <item>
+        <title>Periyar 145 - Birthday Celebrations</title>
+        <description>&lt;p&gt;&lt;strong&gt;Thanthai Periyar&lt;/strong&gt; – the father of Modern Dravidian movement – a true visionary who propounded rationalism, a fierce leader who defied all odds, a leader without borders and boundaries dedicated his entire life to the fight against inequality and social injustice in striving to establish an egalitarian society. To eradicate Casteism in Indian society following the dictates of the Hindu religion where people are enslaved based on discrimination at birth. Indian Caste system earmarked at birth was dictated and cleverly manipulated by the Hindu religious doctrine which sets a top-down social structure of oppression that differentiates individuals based on birth...</description>
+        <pubDate>Sat, 16 Sep 2023 19:00:00 -0500</pubDate>
+        <link>http://localhost:4000/welcome/</link>
+        <guid isPermaLink="true">http://localhost:4000/welcome/</guid>
+        
+        <category>welcome</category>
+        
+        <category>invitation</category>
+        
+        <category>feature</category>
+        
+        <category>Invitation</category>
       </item>
     
       <item>
@@ -65,22 +81,6 @@
         <category>events</category>
         
         <category>Kahoot</category>
-      </item>
-    
-      <item>
-        <title>Periyar 145 - Birthday Celebrations</title>
-        <description>&lt;p&gt;&lt;strong&gt;Thanthai Periyar&lt;/strong&gt; – the father of Modern Dravidian movement – a true visionary who propounded rationalism, a fierce leader who defied all odds, a leader without borders and boundaries dedicated his entire life to the fight against inequality and social injustice in striving to establish an egalitarian society. To eradicate Casteism in Indian society following the dictates of the Hindu religion where people are enslaved based on discrimination at birth. Indian Caste system earmarked at birth was dictated and cleverly manipulated by the Hindu religious doctrine which sets a top-down social structure of oppression that differentiates individuals based on birth...</description>
-        <pubDate>Thu, 24 Aug 2023 19:00:00 -0500</pubDate>
-        <link>http://localhost:4000/welcome/</link>
-        <guid isPermaLink="true">http://localhost:4000/welcome/</guid>
-        
-        <category>welcome</category>
-        
-        <category>invitation</category>
-        
-        <category>feature</category>
-        
-        <category>Invitation</category>
       </item>
     
       <item>
