@@ -19,19 +19,27 @@ paginate: false
 
 Dressed as iconic Dravidian leaders, our children don't just put on costumes; they step into a rich tapestry of experiences. Each outfit is a portal to an era of transformation, and each character they embody carries a message that has resonated through time. As they enact stories of resilience, courage, and change, they don't just entertain – they educate and inspire.
 
-**Why wait? Just do it…. Sign up NOW!!!**<a  href="https://www.periyar143.info/register/">`Click here to register!`</a>
-
 ## Rules / Guidelines
 
-* Participant must reside in North America (USA,Canada, and Mexico) 
-* Participant must be 18 years or under
-* Participant must register to participate in any competition
-* Registration is FREE
-* Registration due by <strong>Saturday, 11.Sep.2021 11:59 PM (EST)</strong>
-* The time must not exceed two (2) minutes
-* **Leaders:** Periyar E V R, Arignar Anna, Nagammai, Maniammai,Kalaignar Karunanidhi, Pity Thiagarayar, Ayothi Dasar, Ambedkar, A T Panneerselvam, Bharathidasan, Rammamirtham Ammaiyar, Dr T M Nair, W P Soundarapandian
-* Inform us via email(events@periyarinternational.org) your choice of character
-* You may choose to say a quote of that leader or what they did to make a difference
-* All participants MUST say a Periyar quote ( list of reference quotes will be emailed to you separately) at the start of their live event after introducing themselves
+- **Registration Deadline**: Please complete your registration by **Saturday, September 9, 2023, 11:59 PM (EST)**.
+- **Time Limit**: The time for your performance must not exceed **two (2) minutes**.
+- **Leaders to Portray**: Choose a leader from the list below to portray in your performance:
+  - Thanthai Periyar
+  - Arignar Anna
+  - Annai Nagammaiyar
+  - Annai Maniammaiyar
+  - Kalaignar Karunanidhi
+  - Pity Thiagarayar
+  - Pandithar Ayothi Dasar
+  - Annal Ambedkar
+  - A T Panneerselvam
+  - Bharathidasan
+  - Rammamirtham Ammaiyar
+  - Dr T M Nair
+  - W P Soundarapandian
+- **Character Choice**: Inform us of your chosen character via email at [events@periyarinternational.org](mailto:events@periyarinternational.org).
+- **Leader's Quote or Impact**: During your performance, you can either recite a quote from the leader you're portraying or highlight their significant contributions.
+- **Periyar Quote**: All participants are required to share a Periyar quote (a list of reference quotes will be sent separately via email) at the beginning of their live event, following their self-introduction.
 
-**Why wait? Just do it…. Sign up NOW!!!**<a  href="https://www.periyar143.info/register/">`Click here to register!`</a>
+**Ready to Make a Difference? Don't Wait—[Sign Up NOW!!!](/register/)**
+
