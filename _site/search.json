@@ -11,7 +11,7 @@
     } ,
   
     {
-      "title"    : "பெரியாருக்கான ஓட்டம்/நடை",
+      "title"    : "பெரியாருக்கான ஓட்டம்",
       "tags"     : "Run For Periyar and events",
       "categories" : "tamil",
       "url"      : "/tamil-runforperiyar/",
@@ -51,7 +51,7 @@
     } ,
   
     {
-      "title"    : "Katturai",
+      "title"    : "Essay Writing",
       "tags"     : "essay writing and events",
       "categories" : "Essay Writing",
       "url"      : "/katturai/",
@@ -67,7 +67,7 @@
     } ,
   
     {
-      "title"    : "Kavithai",
+      "title"    : "Poem Recital",
       "tags"     : "kavithai and events",
       "categories" : "Poem Recital",
       "url"      : "/kavithai/",
@@ -123,7 +123,7 @@
     } ,
   
     {
-      "title"    : "Padal",
+      "title"    : "Sing a Song",
       "tags"     : "padal and events",
       "categories" : "Sing a Song",
       "url"      : "/padal/",
@@ -139,19 +139,11 @@
     } ,
   
     {
-      "title"    : "Maruvedam",
+      "title"    : "Dravidian Heroes",
       "tags"     : "monoacting and events",
       "categories" : "Monoacting",
       "url"      : "/maruvedam/",
       "date"     : "08/18/2023"
-    } ,
-  
-    {
-      "title"    : "Support",
-      "tags"     : "support and donate",
-      "categories" : "Support",
-      "url"      : "/donate/",
-      "date"     : "08/17/2023"
     } ,
   
     {
@@ -163,7 +155,7 @@
     } ,
   
     {
-      "title"    : "Events",
+      "title"    : "Periyar-145 Events",
       "tags"     : "youthprogram",
       "categories" : "events",
       "url"      : "/events/",
@@ -184,6 +176,14 @@
       "categories" : "Registration",
       "url"      : "/register/",
       "date"     : "08/15/2023"
+    } ,
+  
+    {
+      "title"    : "Support",
+      "tags"     : "support and donate",
+      "categories" : "Support",
+      "url"      : "/donate/",
+      "date"     : "08/13/2023"
     } 
   
 ]

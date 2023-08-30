@@ -1,7 +1,7 @@
 ---
 date: 2023-08-19T00:00:00.000Z
 layout: post
-title: Maruvedam
+title: Dravidian Heroes
 subtitle: 'Showcase your acting talent'
 description: >-
   Dressing up and acting out stories with power & conviction. Drama is a very compelling way for child actors to walk around ...
@@ -17,7 +17,7 @@ author: Periyar-International
 paginate: false
 ---
 
-Dressing up and acting out stories with power & conviction… Drama is a very compelling way for child actors to walk around in the “world of the leaders  who have made a difference to mankind”… to experience what they experienced; to feel, in a very real way, the emotions that such scenarios raise; and to internalize the activists’ interpretation of these experiences is indeed a moment of joy, realization and experience not just for them but also the witnessing audience members.
+Dressed as iconic Dravidian leaders, our children don't just put on costumes; they step into a rich tapestry of experiences. Each outfit is a portal to an era of transformation, and each character they embody carries a message that has resonated through time. As they enact stories of resilience, courage, and change, they don't just entertain – they educate and inspire.
 
 **Why wait? Just do it…. Sign up NOW!!!**<a  href="https://www.periyar143.info/register/">`Click here to register!`</a>
 
