@@ -31,17 +31,16 @@ Celebrate Periyar’s 145th Year with the Virtual Marathon:
 
 Join us in commemorating the 145th birth anniversary of Thanthai Periyar by participating in our special virtual marathon. Here’s how you can be a part of this meaningful event:
 
-1. Select a date and time that works for you.
+1. Feel free to choose a date and time that works for you anytime between September 1st and September 17th.
 2. Use your preferred fitness app to track and record your run.
 3. Take a screenshot of your completed run.
-4. Email the screenshot to events@periyarinternational.org along with your full name and chosen category (e.g., 5K, 10K, Half Marathon).
+4. Email the screenshot to [events@periyarinternational.org](mailto:events@periyarinternational.org) along with your full name and chosen category (e.g., 5K, 10K, Half Marathon).
 5. You are welcome to send your photograph to showcase your participation and support, and have it featured on the Periyar International website!
 
 Every participant will receive an exclusive digital finisher’s certificate!
 
 Let’s pay tribute to Periyar’s legacy by running anywhere and everywhere. Be a part of this virtual marathon and show your commitment to fitness and social progress.
 
-For more information, reach out to us at events@periyarinternational.org. Stay connected with us on https://www.facebook.com/periyarusa for updates and inspiration!
+For more information, reach out to us at [events@periyarinternational.org](mailto:events@periyarinternational.org). Stay connected with us on [Our Facebook Page](https://www.facebook.com/periyarusa){:target="_blank"} for updates and inspiration!
 
-**Why wait? Just do it…. Sign up NOW!!!**<a  href="/register/">`Click here to register!`</a>
- 
+ **Why wait? Just do it… [Sign up NOW!!!](/register/)**
