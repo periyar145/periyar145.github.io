@@ -21,9 +21,9 @@ paginate: true
 
 Celebrate Periyar’s 145th Year with the Virtual Marathon:
 
-**Run for Periyar** 🏃‍♀️🏃‍♂️
+**Run for Periyar**
 
-**Run Anywhere!** 🏃‍♀️🏃‍♂️
+**Run Anywhere!**
 
 - **Date:** Sep 1st to Sep 17th
 - **Time:** Complete the run at your convenience.
