@@ -24,11 +24,11 @@ paginate: true
 
 - [கட்டுரை](/tamil-katturai/)
 
-- [பேச்சு போட்டி](/tamil-quote/)
+- [பேச்சு போட்டி](/tamil-Quote/)
 
 - [கவிதை](/tamil-kavithai/)
 
-- [ஓவியம்](/tamil-oviyam/)
+- [ஓவியம்](/tamil-Oviyam/)
 
 - [மாறுவேடம்](/tamil-maruvedam/)
 
