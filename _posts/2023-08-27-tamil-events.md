@@ -26,8 +26,6 @@ paginate: true
 
 - [பேச்சு போட்டி](/tamil-Quote/)
 
-- [கவிதை](/tamil-kavithai/)
-
 - [ஓவியம்](/tamil-Oviyam/)
 
 - [மாறுவேடம்](/tamil-maruvedam/)
