@@ -39,7 +39,7 @@ Dressed as iconic Dravidian leaders, our children don't just put on costumes; th
   - W P Soundarapandian
 - **Character Choice**: Inform us of your chosen character via email at [events@periyarinternational.org](mailto:events@periyarinternational.org).
 - **Leader's Quote or Impact**: During your performance, you can either recite a quote from the leader you're portraying or highlight their significant contributions.
-- **Periyar Quote**: All participants are required to share a Periyar quote (a list of reference quotes will be sent separately via email) at the beginning of their live event, following their self-introduction.
+- **Periyar Quote**: We Strongly encourage all participants to share a Periyar quote (a list of reference quotes will be sent separately to your registered email) at the beginning of their live event after introducing themselves.
 
 **Ready to Make a Difference? Don't Wait—[Sign Up NOW!!!](/register/)**
 

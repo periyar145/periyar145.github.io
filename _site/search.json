@@ -27,15 +27,15 @@
     } ,
   
     {
-      "title"    : "Run For Periyar",
-      "tags"     : "Run For Periyar and events",
+      "title"    : "Run/Walk for Periyar",
+      "tags"     : "Run-Walk-4-Periyar and events",
       "categories" : "Run For Periyar",
       "url"      : "/runforperiyar/",
       "date"     : "08/24/2023"
     } ,
   
     {
-      "title"    : "Kahoot",
+      "title"    : "Kahoot(Quiz)",
       "tags"     : "Kahoot and events",
       "categories" : "Kahoot",
       "url"      : "/Kahoot/",
@@ -43,8 +43,8 @@
     } ,
   
     {
-      "title"    : "Essay Writing",
-      "tags"     : "essay writing and events",
+      "title"    : "Short Essay",
+      "tags"     : "short-essay and events",
       "categories" : "Essay Writing",
       "url"      : "/katturai/",
       "date"     : "08/24/2023"
@@ -55,14 +55,6 @@
       "tags"     : "Kahoot and events",
       "categories" : "tamil",
       "url"      : "/tamil-Kahoot/",
-      "date"     : "08/23/2023"
-    } ,
-  
-    {
-      "title"    : "Poem Recital",
-      "tags"     : "kavithai and events",
-      "categories" : "Poem Recital",
-      "url"      : "/kavithai/",
       "date"     : "08/23/2023"
     } ,
   
@@ -80,14 +72,6 @@
       "categories" : "Speech",
       "url"      : "/Quote/",
       "date"     : "08/22/2023"
-    } ,
-  
-    {
-      "title"    : "கவிதை",
-      "tags"     : "kavithai and events",
-      "categories" : "tamil",
-      "url"      : "/tamil-kavithai/",
-      "date"     : "08/21/2023"
     } ,
   
     {
@@ -115,9 +99,9 @@
     } ,
   
     {
-      "title"    : "Sing a Song",
+      "title"    : "Sing-a-Song",
       "tags"     : "padal and events",
-      "categories" : "Sing a Song",
+      "categories" : "Sing-a-Song",
       "url"      : "/padal/",
       "date"     : "08/20/2023"
     } ,
