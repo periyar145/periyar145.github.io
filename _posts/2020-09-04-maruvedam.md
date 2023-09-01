@@ -4,7 +4,7 @@ layout: post
 title: Dravidian Heroes
 subtitle: 'Showcase your acting talent'
 description: >-
-  Dressing up and acting out stories with power & conviction. Drama is a very compelling way for child actors to walk around ...
+  Dressing up and acting out stories with power & conviction is an impactful way for young actors to express themselves.
 image: >-
     https://res.cloudinary.com/periyar142/image/upload/v1630450301/Maruvedam_ppgszl.jpg
 optimized_image: >-
