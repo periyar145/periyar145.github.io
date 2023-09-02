@@ -4,14 +4,13 @@ layout: post
 title: Run/Walk for Periyar
 subtitle: Run/Walk For Periyar
 description: >-
-  Join us in a virtual marathon celebrating Thanthai Periyar's 145th birth anniversary - Run/Walk for Periyar.
+  Join us in a virtual marathon celebrating Periyar's 145th birth anniversary.
 image: >-
     https://res.cloudinary.com/periyar142/image/upload/v1692373424/RunforPeriyar_dsxylf.jpg
 optimized_image: >-
   https://res.cloudinary.com/periyar142/image/upload/c_scale,w_380/v1692373424/RunforPeriyar_dsxylf.jpg
 category: Run For Periyar
 tags:
-  - Run-Walk-4-Periyar
   - events
 author: Periyar-International
 paginate: true

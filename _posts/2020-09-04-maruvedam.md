@@ -4,7 +4,7 @@ layout: post
 title: Dravidian Icons
 subtitle: 'Showcase your acting talent'
 description: >-
-  Dressing up and acting out stories with power & conviction is an impactful way for young actors to express themselves.
+  Acting with power helps young actors express themselves effectively and passionately.
 image: >-
     https://res.cloudinary.com/periyar142/image/upload/v1630450301/Maruvedam_ppgszl.jpg
 optimized_image: >-
