@@ -22,14 +22,50 @@ paginate: true
 ### **விதிகள் / வழிகாட்டுதல்கள்**
 * **பதிவு செய்வதற்கான காலக்கெடு** : **செப்டம்பர் 10, 2023 ஞாயிற்றுக்கிழமை** .
 * **மொழி தேர்வு/வார்த்தை வரம்பு** :  குறுங்கட்டுரை தமிழ் அல்லது ஆங்கிலத்தில் ஐநூறு (500) வார்த்தைகளுக்கு மிகாமல்  இருக்க வேண்டும்.
-* **தமிழில் கட்டுரைத் தலைப்புகள்** :
+
+**தமிழில் கட்டுரைத் தலைப்புகள்**:
+
     * பெரியாரும் பெண்ணுரிமையும்
+    * பெரியார் ஒரு தொலைநோக்குப் பார்வையாளர் - ஏன்? எப்படி?
     * பெரியாரும் சமூக நீதியும்
     * பெரியாரும் சுயமரியாதையும்
-* **ஆங்கிலத்தில் கட்டுரைத் தலைப்புகள்** :
-    * பெண் உரிமைகள் பற்றிய பெரியாரின் பார்வை
-    * பெரியாரின் சமூக நீதிப் பார்வை
-    * பெரியாரின் மற்றும் சுயமரியாதை
+    * பெரியார் என்றுமே பெண்ணுரிமைக்கான ஒரு மதிப்பிற்குரிய தூதுவர். 
+      ஏன்? எதனால்?
+    * பெரியாரும் சிக்கனமும்.
+    * பெரியாரின் பின்னால் ஒரு பெரிய இளைஞர் பட்டாளம் இருப்பது.
+      ஏன் / எப்படி?
+    * பெரியார் ஏன் தமிழர்களுக்கு திருக்குறளைப் பரிந்துரைத்தார்?
+    * பெரியாரும், அம்பேத்கரும் ஒரு நாணயத்தின் இரு பக்கங்களே.
+      ஏன்? எப்படி?
+    * வைக்கம் வீரர் பெரியார்  - ஏன்?  எதனால் இந்த நிகழ்வு 
+      இந்த ஆண்டு சிறப்பாகக் கொண்டாடப்படுகிறது?
+    * பெரியார் எதனால் அறிவியலையும், பகுத்தறிவையும் போற்றினார்?
+    * உங்களின் மனதைப் பாதித்த பெரியாரின் கொள்கை எது? ஏன்?
+    * இன்று பெரியாரிடம் நீங்கள் ஒரு கேள்வியைக் கேட்டால்: 
+      அது என்னவாக இருக்கும்?
+    * பெரியார் ஒரு மீட்பர். ஏன் / எப்படி?
+
+**ஆங்கிலத்தில் கட்டுரைத் தலைப்புகள்:**
+
+    * Periyar the visionary – How & Why?
+    * Periyar the most revered brand ambassador for Women Empowerment (WE) 
+      past present and future – How & Why?
+    * Periyar respected/recommended Thirukural among Tamils? – Why?
+    * Periyar & Ambedkar – Two sides of the same coin? How and why?
+    * Periyar – Vaikom warrior – Why? 
+      And what makes this event very special this year?
+    * Why Periyar favor Science and rationality?
+    * Periyar and frugality
+    * Periyar the Rockstar of Social Justice and Women's Empowerment 
+      of today’s young curious minds.
+    * How and why does Periyar have such a fan following amongst today’s youth?
+    * Which principle of Periyar resonates the most within you? Why?
+    * If you could ask one question to Periyar today – What would it be?
+    * Periyar the Great Emancipator? How and why?
+    * Periyar's Perspectives on Women's Rights
+    * Periyar's Vision of Social Justice
+    * Periyar's and Self-Respect 
+
 * **சமர்ப்பிப்பதற்கான காலக்கெடு** : **செப்டம்பர் 12, 2023 செவ்வாய்கிழமை***க்குள்* உங்கள் படைப்பை events@periyarinternational.org க்கு மின்னஞ்சல் செய்யவும் .
 * **பெரியார் பிஞ்சு** : தேர்ந்தெடுக்கப்பட்ட சிறப்புப் பரிசு பெற்ற *கட்டுரைகள் [பெரியார் பிஞ்சு](https://periyarpinju.com/)* இதழில் இடம்பெறும்.
 
