@@ -19,7 +19,7 @@
     } ,
   
     {
-      "title"    : "பெரியாருக்கான ஓட்டம்",
+      "title"    : "பெரியாருக்கான ஓட்டம்/நடை",
       "tags"     : "Run For Periyar and events",
       "categories" : "tamil",
       "url"      : "/tamil-runforperiyar/",
@@ -48,14 +48,6 @@
       "categories" : "Essay Writing",
       "url"      : "/katturai/",
       "date"     : "08/24/2023"
-    } ,
-  
-    {
-      "title"    : "கஹூட்",
-      "tags"     : "Kahoot and events",
-      "categories" : "tamil",
-      "url"      : "/tamil-Kahoot/",
-      "date"     : "08/23/2023"
     } ,
   
     {
