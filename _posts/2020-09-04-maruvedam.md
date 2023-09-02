@@ -26,19 +26,19 @@ Dressed as iconic Dravidian leaders, our children don't just put on costumes; th
 - **Choice of Leaders to Enact**: Please choose one (1) leader from the list below:
   - Thanthai Periyar
   - Arignar Anna
+  - Annal Ambedkar
   - Annai Nagammaiyar
   - Annai Maniammaiyar
   - Kalaignar Karunanidhi
-  - Pity Thiagarayar
   - Pandithar Ayothi Dasar
-  - Annal Ambedkar
   - A T Panneerselvam
-  - Bharathidasan
-  - Rammamirtham Ammaiyar
+  - Pity Thiagarayar
+  - Puratchi Kavingar Bharathidasan
+  - Moovalur Ramamirtham Ammaiyar
   - Dr T M Nair
   - W P Soundarapandian
-- **Character Choice**: Inform us of your chosen character via email at [events@periyarinternational.org](mailto:events@periyarinternational.org).
-
+  
+- **Character Choice**: Kindly email your chosen character to [events@periyarinternational.org](mailto:events@periyarinternational.org) by **Tuesday, September 12, 2023**
 - **Quote**: As you enact the leader of your choice, you may recite a quote or highlight their significant contributions.
 
 **Limited spots only! Click [here](/register/) to register immediately!!!**
