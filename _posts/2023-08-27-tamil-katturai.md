@@ -66,7 +66,7 @@ paginate: true
     * Periyar's Vision of Social Justice
     * Periyar's and Self-Respect 
 
-* **சமர்ப்பிப்பதற்கான காலக்கெடு** : **செப்டம்பர் 12, 2023 செவ்வாய்கிழமை***க்குள்* உங்கள் படைப்பை events@periyarinternational.org க்கு மின்னஞ்சல் செய்யவும் .
+* **சமர்ப்பிப்பதற்கான காலக்கெடு** : **செப்டம்பர் 12, 2023 செவ்வாய்கிழமை***க்குள்* உங்கள் படைப்பை [events@periyarinternational.org](mailto:events@periyarinternational.org)-க்கு மின்னஞ்சல் செய்யவும் .
 * **பெரியார் பிஞ்சு** : தேர்ந்தெடுக்கப்பட்ட *கட்டுரைகள் [பெரியார் பிஞ்சு](https://periyarpinju.com/)* இதழில் இடம்பெறும்.
 
 நிகழ்வில் பங்கு பெற/பதிவு செய்ய [இங்கே](/tamil-register/) சொடுக்கவும்!!!
