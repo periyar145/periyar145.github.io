@@ -1,7 +1,7 @@
 ---
 date: 2023-08-22T00:00:00.000Z
 layout: post
-title:  பேச்சு போட்டி
+title:  பேச்சுப் போட்டி
 subtitle: சமூக நீதி, பெண்கள் உரிமை, பகுத்தறிவு என எதுவாக இருந்தாலும் உங்கள் குரல் முக்கியமானது.
 description: >-
   பெரியார், சுயமரியாதை, பெண் உரிமை, பகுத்தறிவு, சாதி ஒழிப்பு பற்றிய உரை.
@@ -16,7 +16,6 @@ tags:
 author: Periyar-International
 paginate: false
 ---
-
 #### கேட்டார்ப் பிணிக்கும் தகையவாய்க் - கேளாரும்<br/>வேட்ப மொழிவதாம் சொல். (குறள் 643, சொல்வன்மை)
 *கேட்போரைக் கவரும் தன்மையுடைதாகவும், கேட்காதவரும் தேடிவந்து விரும்பிக் கேட்கக் கூடியதாகவும் அமைவதே சொல்வன்மை எனப்படும்.*
 
@@ -24,10 +23,11 @@ paginate: false
  
 ## **விதிகள் / வழிகாட்டுதல்கள்**
 * **பதிவு செய்வதற்கான காலக்கெடு** : **செப்டம்பர் 10, 2023 ஞாயிற்றுக்கிழமை**.
-* **நேர வரம்பு**: உங்கள் பேச்சு இரண்டு (2) நிமிடங்களுக்கு மிகாமல் இருக்க வேண்டும் .
+* **மொழி தேர்வு/நேர வரம்பு** : உங்கள் பேச்சு தமிழ் அல்லது ஆங்கிலத்தில் இரண்டு (2) நிமிடங்களுக்கு மிகாமல் இருக்க வேண்டும்.
 * **பெரியார் பொன்மொழியுடன் அறிமுகம்** : பங்கேற்பாளர்கள் அனைவரும் தங்களை அறிமுகப்படுத்திக் கொண்ட பிறகு, அவர்களின் நேரடி நிகழ்வின் தொடக்கத்தில் பெரியார் பொன்மொழியை பகிர ஊக்குவிக்கிறோம். *குறிப்பு:  பொன்மொழிகளின் பட்டியல் நீங்கள் பதிவு செய்த மின்னஞ்சலுக்கு அனுப்பப்படும்.*
+* **தலைப்பு தேர்வு**: கீழே உள்ள பட்டியலில் இருந்து ஒரு (1) தலைப்பை நீங்கள் தேர்வு செய்யலாம்.
 
-**உங்கள் பேச்சுக்கு பின்வரும் தலைப்புகளில் ஒன்றை (1) தேர்வு செய்யவும்::**
+**தமிழ் தலைப்புகள்:**
 
     * பெரியாரும் பெண்ணுரிமையும்
     * பெரியார் ஒரு தொலைநோக்குப் பார்வையாளர் - ஏன்? எப்படி?
@@ -48,6 +48,27 @@ paginate: false
     * இன்று பெரியாரிடம் நீங்கள் ஒரு கேள்வியைக் கேட்டால்: 
       அது என்னவாக இருக்கும்?
     * பெரியார் ஒரு மீட்பர். ஏன் / எப்படி?
+
+**ஆங்கில தலைப்புகள்:**
+
+    * Periyar the visionary – How & Why?
+    * Periyar the most revered brand ambassador for Women Empowerment (WE) 
+      past present and future – How & Why?
+    * Periyar respected/recommended Thirukural among Tamils? – Why?
+    * Periyar & Ambedkar – Two sides of the same coin? How and why?
+    * Periyar – Vaikom warrior – Why? 
+      And what makes this event very special this year?
+    * Why Periyar favor Science and rationality?
+    * Periyar and frugality
+    * Periyar the Rockstar of Social Justice and Women's Empowerment 
+      of today’s young curious minds.
+    * How and why does Periyar have such a fan following amongst today’s youth?
+    * Which principle of Periyar resonates the most within you? Why?
+    * If you could ask one question to Periyar today – What would it be?
+    * Periyar the Great Emancipator? How and why?
+    * Periyar's Perspectives on Women's Rights
+    * Periyar's Vision of Social Justice
+    * Periyar's and Self-Respect 
 
 * **தனிப்பட்ட பார்வை** : நீங்கள் தேர்ந்தெடுத்த தலைப்பு தொடர்பான உங்கள் எண்ணங்கள், கதைகள் அல்லது தனிப்பட்ட அனுபவங்களைப் பகிர்ந்துகொள்ள தயங்காதீர்கள்.
 

@@ -69,15 +69,7 @@ Birthday Celebration
     } ,
   
     {
-      "title"    : "பேச்சு போட்டி",
-      "tags"     : "Speech and events",
-      "categories" : "tamil",
-      "url"      : "/tamil-Quote.md/",
-      "date"     : "08/21/2023"
-    } ,
-  
-    {
-      "title"    : "பேச்சு போட்டி",
+      "title"    : "பேச்சுப் போட்டி",
       "tags"     : "Speech and events",
       "categories" : "tamil",
       "url"      : "/tamil-Quote/",
@@ -112,14 +104,6 @@ Birthday Celebration
       "title"    : "பாடல்",
       "tags"     : "padal and events",
       "categories" : "tamil",
-      "url"      : "/tamil-padal.md/",
-      "date"     : "08/19/2023"
-    } ,
-  
-    {
-      "title"    : "பாடல்",
-      "tags"     : "padal and events",
-      "categories" : "tamil",
       "url"      : "/tamil-padal/",
       "date"     : "08/19/2023"
     } ,
@@ -144,14 +128,6 @@ Birthday Celebration
       "title"    : "நிகழ்வுகள்",
       "tags"     : "youthprogram",
       "categories" : "tamil",
-      "url"      : "/tamil-events.md/",
-      "date"     : "08/16/2023"
-    } ,
-  
-    {
-      "title"    : "நிகழ்வுகள்",
-      "tags"     : "youthprogram",
-      "categories" : "tamil",
       "url"      : "/tamil-events/",
       "date"     : "08/16/2023"
     } ,
@@ -162,14 +138,6 @@ Birthday Celebration
       "categories" : "events",
       "url"      : "/events/",
       "date"     : "08/16/2023"
-    } ,
-  
-    {
-      "title"    : "பதிவு",
-      "tags"     : "registration",
-      "categories" : "tamil",
-      "url"      : "/tamil-register.md/",
-      "date"     : "08/15/2023"
     } ,
   
     {
