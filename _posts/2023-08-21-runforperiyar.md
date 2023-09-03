@@ -28,7 +28,7 @@ Join us in commemorating the 145th birth anniversary of Thanthai Periyar by part
 
 Here’s how you can be a part of this meaningful event:
 
-1. Feel free to choose a date and time that works for you anytime between September 1-17, 2023.
+1. Feel free to choose a date and time that works for you anytime between September 5-17, 2023.
 2. Use your preferred fitness app to track and record your run/walk.
 3. Take a screenshot of your completed run/walk.
 4. Email the screenshot to [events@periyarinternational.org](mailto:events@periyarinternational.org) along with your full name and chosen category (e.g., 5K, 10K, Half Marathon, Walkathon).
