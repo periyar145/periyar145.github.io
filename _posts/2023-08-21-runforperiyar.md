@@ -16,13 +16,11 @@ author: Periyar-International
 paginate: true
 ---
 
-# Run/Walk for Periyar
-
 Celebrate Periyar’s 145th Year with the Virtual Run/Walk:
 
 **Run/Walk for Periyar... Anywhere!!!**
 
-- **Date:** September 1-17, 2023
+- **Date:** September 5-17, 2023
 - **Time:** Complete the run/walk at your convenience
 - **Location:** Anywhere you choose!
 
