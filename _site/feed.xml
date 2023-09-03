@@ -5,8 +5,8 @@
     <description>Periyar 145 - Birthday Celebrations</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Sep 2023 17:52:45 -0500</pubDate>
-    <lastBuildDate>Sat, 02 Sep 2023 17:52:45 -0500</lastBuildDate>
+    <pubDate>Sat, 02 Sep 2023 23:40:43 -0500</pubDate>
+    <lastBuildDate>Sat, 02 Sep 2023 23:40:43 -0500</lastBuildDate>
     <generator>Jekyll v3.9.1</generator>
     
       <item>
@@ -265,11 +265,18 @@ Birthday Celebration
       <item>
         <title>Registration</title>
         <description>&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;Important Information:&lt;/strong&gt;&lt;/p&gt;
+  &lt;h3 id=&quot;important-information&quot;&gt;Important Information:&lt;/h3&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;strong&gt;Registration Deadline&lt;/strong&gt; : End of day on &lt;strong&gt;Sunday, September 10, 2023&lt;/strong&gt;.&lt;/li&gt;
-    &lt;li&gt;Each participant will only be allowed to participate in &lt;em&gt;one of the four live signature events&lt;/em&gt; (Speech/Padal/Maruvedam/Kavithai).&lt;/li&gt;
-    &lt;li&gt;Drawing and Essay needs to be submitted earlier by &lt;strong&gt;Saturday, September 9th, 2023&lt;/strong&gt;.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Participation&lt;/strong&gt;: Each participant is allowed to take part in only &lt;br /&gt; &lt;strong&gt;one (1)&lt;/strong&gt; of the following live events:
+      &lt;ul&gt;
+        &lt;li&gt;Speech&lt;/li&gt;
+        &lt;li&gt;Sing-a-Song&lt;/li&gt;
+        &lt;li&gt;Enact your leader (Maruvedam)&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Submission Deadline&lt;/strong&gt;: Submissions for the &lt;em&gt;Drawing&lt;/em&gt; and &lt;em&gt;Short Essay&lt;/em&gt; categories must be sent in no
+later than &lt;strong&gt;Tuesday, September 12, 2023&lt;/strong&gt;.&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/blockquote&gt;
 
