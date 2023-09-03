@@ -42,4 +42,4 @@ Let’s pay tribute to Periyar’s legacy by running/walking anywhere and everyw
 
 For more information, reach out to us at [events@periyarinternational.org](mailto:events@periyarinternational.org). Stay connected with us on [Our Facebook Page](https://www.facebook.com/periyarusa){:target="_blank"} for updates and inspiration!
 
-**Click [here](/register/) to register!!!**
+<!--**Click [here](/register/) to register!!!**-->

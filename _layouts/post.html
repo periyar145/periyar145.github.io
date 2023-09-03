@@ -37,22 +37,36 @@
             {% if site.two_columns_layout %}
                 <aside class="see-also">
                     {% if page.category == "tamil" %}
-                        <h2>{{ site.translations.text.see_also | default: "தொடர்புடைய பதிவுகள்" }}</h2>
+                        <h2>{{ site.translations.text.see_also | default: "இதர நிகழ்வுகள்" }}</h2>
                     {% else %}
-                        <h2>{{ site.translations.text.see_also | default: "See also" }}</h2>
+                        <h2>{{ site.translations.text.see_also | default: "Other Events" }}</h2>
                     {% endif %}
                     <ul>
-                        {% assign next_posts = site.posts | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" %}
-                        {% if page.category == "tamil" %}
-                            {% assign next_posts = next_posts | where_exp:"post","post.category == 'tamil'" %}
-                        {% else %}
-                            {% assign next_posts = next_posts | where_exp:"post","post.category != 'tamil'" %}
-                        {% endif %}
-                        {% assign shuffled_array = next_posts | shuffle %}
+                      
+                        {% assign next_posts = site.posts | where_exp:"post", "post.is_generated != true" | where_exp:"post", "post.path != page.path" %}
+                        {% assign filtered_posts = "" | split: "," %}
+                        
+                        {% for post in next_posts %}
+                          {% if post.tags contains 'events' %}
+                            {% if page.category == 'tamil' and post.category == 'tamil' %}
+                              {% capture post_content %}{{ post_content }}{{ post.id }},{% endcapture %}
+                            {% elsif page.category != 'tamil' and post.category != 'tamil' %}
+                              {% capture post_content %}{{ post_content }}{{ post.id }},{% endcapture %}
+                            {% endif %}
+                          {% endif %}
+                        {% endfor %}
+                        
+                        {% assign post_ids = post_content | split: "," | uniq %}
+                        
+                        {% for post_id in post_ids %}
+                          {% assign post = site.posts | where_exp:"p", "p.id == post_id" | first %}
+                          {% assign filtered_posts = filtered_posts | push: post %}
+                        {% endfor %}
                         
                         
-                        
-                        {% for post in shuffled_array limit:3 %}
+                                               
+
+                        {% for post in filtered_posts%}
                             <li>
                                 <a href="{{ post.url | prepend: site.baseurl }}">
                                     {% if post.optimized_image %}
@@ -63,6 +77,7 @@
                                         <img src="/assets/img/off.jpg">
                                     {% endif %}
                                     <h3>{{ post.title }}</h3>
+                                    <br/>
                                 </a>
                             </li>
                         {% endfor %}

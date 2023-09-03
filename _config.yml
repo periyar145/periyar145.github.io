@@ -16,6 +16,8 @@ menu:
     url: /about
   - title: Events
     url: /events
+  - title: Register
+    url: /register
   - title: Donate
     url: /donate
 email: program@periyar143.info
