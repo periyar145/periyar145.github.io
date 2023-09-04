@@ -6,9 +6,9 @@ subtitle: 'Showcase your acting talent'
 description: >-
   Acting with power helps young actors express themselves effectively and passionately.
 image: >-
-    https://res.cloudinary.com/periyar142/image/upload/v1630450301/Maruvedam_ppgszl.jpg
+    https://res.cloudinary.com/periyar142/image/upload/v1693800793/Enact_p80goo.jpg
 optimized_image: >-
-  https://res.cloudinary.com/periyar142/image/upload/c_scale,w_380/v1630450301/Maruvedam_ppgszl.jpg
+  https://res.cloudinary.com/periyar142/image/upload/c_scale,w_380/v1693800793/Enact_p80goo.jpg
 category: Monoacting
 tags:
   - monoacting

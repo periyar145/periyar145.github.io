@@ -6,9 +6,9 @@ subtitle: உங்கள் கலைத் திறமையை வெளி�
 description: >- 
  சமூக நீதி, சமத்துவம் மற்றும் மனிதநேயம் தொடர்பான ஓவியத்தை வரைவதற்கு உங்கள் கலைத் திறமையை வெளிப்படுத்துங்கள்.
 image: >-
-    https://res.cloudinary.com/periyar142/image/upload/v1630450300/Drawing_mudrde.jpg
+    https://res.cloudinary.com/periyar142/image/upload/v1693800793/Drawing_layxln.jpg
 optimized_image: >-
-  https://res.cloudinary.com/periyar142/image/upload/c_scale,w_380/v1630450300/Drawing_mudrde.jpg
+  https://res.cloudinary.com/periyar142/image/upload/c_scale,w_380/v1693800793/Drawing_layxln.jpg
 category: tamil
 tags:
   - drawing

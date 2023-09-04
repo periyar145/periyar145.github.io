@@ -6,9 +6,9 @@ subtitle: ஓடலாம்... நடக்கலாம்... பெரிய�
 description: >-
   பெரியாரின் 145வது ஆண்டு விழாவை மாரத்தான் அல்லது பெருநடை மூலம் கொண்டாடுங்கள்.
 image: >-
-    https://res.cloudinary.com/periyar142/image/upload/v1692373424/RunforPeriyar_dsxylf.jpg
+    https://res.cloudinary.com/periyar142/image/upload/v1693800793/RunWalkPeriyar_reirgm.jpg
 optimized_image: >-
-  https://res.cloudinary.com/periyar142/image/upload/c_scale,w_380/v1692373424/RunforPeriyar_dsxylf.jpg
+  https://res.cloudinary.com/periyar142/image/upload/c_scale,w_380/v1693800793/RunWalkPeriyar_reirgm.jpg
 category: tamil
 tags:
   - Run For Periyar

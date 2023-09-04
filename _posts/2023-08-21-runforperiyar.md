@@ -6,9 +6,9 @@ subtitle: Run/Walk For Periyar
 description: >-
   Join us in a virtual marathon celebrating Periyar's 145th birth anniversary.
 image: >-
-    https://res.cloudinary.com/periyar142/image/upload/v1692373424/RunforPeriyar_dsxylf.jpg
+    https://res.cloudinary.com/periyar142/image/upload/v1693800793/RunWalkPeriyar_reirgm.jpg
 optimized_image: >-
-  https://res.cloudinary.com/periyar142/image/upload/c_scale,w_380/v1692373424/RunforPeriyar_dsxylf.jpg
+  https://res.cloudinary.com/periyar142/image/upload/c_scale,w_380/v1693800793/RunWalkPeriyar_reirgm.jpg
 category: Run For Periyar
 tags:
   - events

@@ -6,9 +6,9 @@ subtitle: திராவிட முன்னோடிகளாக அலங�
 description: >-
   குழந்தைகள் தங்கள் நடிப்பின் மூலம் திராவிடத் தலைவர்களின் ஆளுமையை வெளிப்படுத்தும் மாறுவேட போட்டி.  
 image: >-
-    https://res.cloudinary.com/periyar142/image/upload/v1630450301/Maruvedam_ppgszl.jpg
+    https://res.cloudinary.com/periyar142/image/upload/v1693800793/Enact_p80goo.jpg
 optimized_image: >-
-  https://res.cloudinary.com/periyar142/image/upload/c_scale,w_380/v1630450301/Maruvedam_ppgszl.jpg
+  https://res.cloudinary.com/periyar142/image/upload/c_scale,w_380/v1693800793/Enact_p80goo.jpg
 category: tamil
 tags:
   - monoacting
