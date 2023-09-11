@@ -5,8 +5,8 @@
     <description>Periyar 145 - Birthday Celebrations</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 Sep 2023 18:25:11 -0500</pubDate>
-    <lastBuildDate>Mon, 04 Sep 2023 18:25:11 -0500</lastBuildDate>
+    <pubDate>Sun, 10 Sep 2023 19:53:08 -0500</pubDate>
+    <lastBuildDate>Sun, 10 Sep 2023 19:53:08 -0500</lastBuildDate>
     <generator>Jekyll v3.9.1</generator>
     
       <item>
@@ -251,16 +251,15 @@ Birthday Celebration
         <title>பதிவு</title>
         <description>&lt;blockquote&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;strong&gt;பதிவு செய்வதற்கான காலக்கெடு&lt;/strong&gt; : &lt;strong&gt;செப்டம்பர் 10, 2023 ஞாயிற்றுக்கிழமை&lt;/strong&gt;.&lt;/li&gt;
-    &lt;li&gt;&lt;strong&gt;சமர்ப்பிப்பதற்கான காலக்கெடு&lt;/strong&gt; : &lt;em&gt;வரைதல்&lt;/em&gt; மற்றும் &lt;em&gt;குறுங்கட்டுரை&lt;/em&gt; வகைகளுக்கான படைப்புக்களை &lt;strong&gt;செப்டம்பர் 12, 2023 செவ்வாய்கிழமை&lt;/strong&gt;&lt;em&gt;க்குள்&lt;/em&gt; &lt;a href=&quot;mailto:events@periyarinternational.org&quot;&gt;events@periyarinternational.org&lt;/a&gt;-க்கு
+    &lt;li&gt;&lt;span style=&quot;color:red&quot;&gt;&lt;strong&gt;பெரியார் 145 நிகழ்வில் பங்கேற்க பதிவு செய்த அனைவருக்கும் நன்றி. இந்த நிகழ்விற்கான சேர்க்கை நிறைவுற்றது.&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;em&gt;வரைதல்&lt;/em&gt; மற்றும் &lt;em&gt;குறுங்கட்டுரை&lt;/em&gt; படைப்புக்களை &lt;strong&gt;செப்டம்பர் 12, 2023 செவ்வாய்கிழமை&lt;/strong&gt;&lt;em&gt;க்குள்&lt;/em&gt;  &lt;a href=&quot;mailto:events@periyarinternational.org&quot;&gt;events@periyarinternational.org&lt;/a&gt;-க்கு
 மின்னஞ்சல் செய்யவும்.&lt;/li&gt;
-    &lt;li&gt;&lt;strong&gt;பங்கேற்பு&lt;/strong&gt; : ஒவ்வொரு பங்கேற்பாளரும் &lt;br /&gt; பேச்சு/பாடல் /மாறுவேடம் நிகழ்வுகளில் ஏதேனும் &lt;strong&gt;ஒன்றில் (1)&lt;/strong&gt; மட்டுமே பங்கேற்க அனுமதிக்கப்படுவார்கள்.&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/blockquote&gt;
 
-&lt;div data-paperform-id=&quot;hsomy1uf&quot;&gt;&lt;/div&gt;
-&lt;script&gt;(function() {var script = document.createElement('script'); script.src = &quot;https://paperform.co/__embed.min.js&quot;; document.body.appendChild(script); })()&lt;/script&gt;
-
+&lt;!--
+&lt;div data-paperform-id=&quot;hsomy1uf&quot;&gt;&lt;/div&gt;&lt;script&gt;(function() {var script = document.createElement('script'); script.src = &quot;https://paperform.co/__embed.min.js&quot;; document.body.appendChild(script); })()&lt;/script&gt;
+--&gt;
 </description>
         <pubDate>Tue, 15 Aug 2023 19:00:00 -0500</pubDate>
         <link>http://localhost:4000/tamil-register/</link>
