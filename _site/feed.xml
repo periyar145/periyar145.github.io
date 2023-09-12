@@ -5,8 +5,8 @@
     <description>Periyar 145 - Birthday Celebrations</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 10 Sep 2023 19:53:08 -0500</pubDate>
-    <lastBuildDate>Sun, 10 Sep 2023 19:53:08 -0500</lastBuildDate>
+    <pubDate>Mon, 11 Sep 2023 19:36:28 -0500</pubDate>
+    <lastBuildDate>Mon, 11 Sep 2023 19:36:28 -0500</lastBuildDate>
     <generator>Jekyll v3.9.1</generator>
     
       <item>
@@ -275,22 +275,15 @@ Birthday Celebration
         <description>&lt;blockquote&gt;
   &lt;h3 id=&quot;important-information&quot;&gt;Important Information:&lt;/h3&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;strong&gt;Registration Deadline&lt;/strong&gt;: End of day on &lt;strong&gt;Sunday, September 10, 2023&lt;/strong&gt;.&lt;/li&gt;
-    &lt;li&gt;&lt;strong&gt;Participation&lt;/strong&gt;: Each participant is allowed to take part in only &lt;br /&gt; &lt;strong&gt;one (1)&lt;/strong&gt; of the following live events:
-      &lt;ul&gt;
-        &lt;li&gt;Speech&lt;/li&gt;
-        &lt;li&gt;Sing-a-Song&lt;/li&gt;
-        &lt;li&gt;Enact your leader (Maruvedam)&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;strong&gt;Submission Deadline&lt;/strong&gt;: Submissions for the &lt;em&gt;Drawing&lt;/em&gt; and &lt;em&gt;Short Essay&lt;/em&gt; categories must be emailed to &lt;a href=&quot;mailto:events@periyarinternational.org&quot;&gt;events@periyarinternational.org&lt;/a&gt; no
+    &lt;li&gt;&lt;span style=&quot;color:red&quot;&gt;&lt;strong&gt;Thank you to all our participants for registering for Periyar Ayya’s 145th birthday event! Registration is now closed. Stay tuned for a fantastic event on September 17th &lt;br /&gt; at 10 AM  New York Time! .&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+    &lt;li&gt;Submissions for the &lt;em&gt;Drawing&lt;/em&gt; and &lt;em&gt;Short Essay&lt;/em&gt; categories must be emailed to &lt;a href=&quot;mailto:events@periyarinternational.org&quot;&gt;events@periyarinternational.org&lt;/a&gt; no
 later than  &lt;br /&gt; &lt;strong&gt;Tuesday, September 12, 2023&lt;/strong&gt;.&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/blockquote&gt;
 
-&lt;div data-paperform-id=&quot;hsomy1uf&quot;&gt;&lt;/div&gt;
-&lt;script&gt;(function() {var script = document.createElement('script'); script.src = &quot;https://paperform.co/__embed.min.js&quot;; document.body.appendChild(script); })()&lt;/script&gt;
-
+&lt;!--
+&lt;div data-paperform-id=&quot;hsomy1uf&quot;&gt;&lt;/div&gt;&lt;script&gt;(function() {var script = document.createElement('script'); script.src = &quot;https://paperform.co/__embed.min.js&quot;; document.body.appendChild(script); })()&lt;/script&gt;
+--&gt;
 </description>
         <pubDate>Tue, 15 Aug 2023 19:00:00 -0500</pubDate>
         <link>http://localhost:4000/register/</link>
