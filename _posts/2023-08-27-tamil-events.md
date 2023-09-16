@@ -12,6 +12,15 @@ tags:
 author: Periyar-International
 paginate: true
 ---
+### Thanthai Periyar's 145th Birthday Online ZOOM Event
+
+**Date:** September 16th 
+**Time:** 6 PM Tamil Nadu Time
+
+**Click [here](https://us02web.zoom.us/j/89321425214?pwd=MEJmdjhZNEJDZHMzRmdXVFU4QnlBQT09) to join the Zoom Meeting**
+
+**Disclaimer:** *This Zoom event will be recorded, just like any other Zoom events, and will be shared on Periyar-related social media platforms. If you have any issues with this, please write to us at [events@periyarinternational.org](mailto:events@periyarinternational.org).*
+
 **நேரலை நிகழ்வுகள்**
 
 * [பேச்சு](/tamil-Quote/)
